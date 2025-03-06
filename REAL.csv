@@ -1,0 +1,32 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+PLD,"Prologis, Inc.",Hamid Moghadam,2023,114856493056.0,50891597,127272,400:01:00,high,Real Estate
+EQIX,Equinix Inc.,Charles Meyers,2023,88048476160.0,23927452,115896,206:01:00,high,Real Estate
+CBRE,"Cbre Group, Inc.",Robert Sulentic,2023,42587250688.0,18358834,70802,269:01:00,high,Real Estate
+CSGP,"Costar Group, Inc.",Andrew Florance,2023,31272108032.0,29176180,109250,267:01:00,high,Real Estate
+IRM,Iron Mountain Inc.,William Meaney,2023,27367847936.0,14867140,40174,371:01:00,high,Real Estate
+ARE,"Alexandria Real Estate Equities, Inc.",Joel Marcus,2023,17700388864.0,15485330,197536,78:01:00,high,Real Estate
+KIM,Kimco Realty Corp.,Conor Flynn,2023,15016552448.0,13951194,112894,123:01:00,high,Real Estate
+HST,"Host Hotels & Resorts, Inc.",James Risoleo,2023,11428185088.0,17694586,251653,70:01:00,high,Real Estate
+AMT,American Tower Corp,Thomas Bartlett,2023,96118505472.0,19709245,59881,329:01:00,mid,Real Estate
+SPG,Simon Property Group Inc.,David Simon,2023,70163005440.0,15564307,52166,298:01:00,mid,Real Estate
+CCI,Crown Castle Inc.,Jay Brown,2023,40895672320.0,14676171,123665,119:01:00,mid,Real Estate
+VTR,"Ventas, Inc.",Debra Cafaro,2023,30241345536.0,13520625,114544,118:01:00,mid,Real Estate
+SBAC,SBA Communications Corp.,Jeffrey Stoops,2023,23449307136.0,11261032,69257,163:01:00,mid,Real Estate
+WY,Weyerhaeuser Co.,Devin Stockfish,2023,21839896576.0,13022431,100256,130:01:00,mid,Real Estate
+INVH,Invitation Homes Inc.,Dallas Tanner,2023,20834729984.0,10393322,76008,137:01:00,mid,Real Estate
+UDR,"UDR, Inc.",Thomas Toomey,2023,17025314816.0,11755015,85212,138:01:00,mid,Real Estate
+BXP,Boston Properties Inc.,Owen Thomas,2023,12514747392.0,12963964,134611,96:01:00,mid,Real Estate
+WELL,Welltower Inc.,Shankh Mitra,2023,98447196160.0,17199891,117700,146:01:00,low,Real Estate
+DLR,"Digital Realty Trust, Inc.",Andrew Power,2023,53583216640.0,12355560,114016,108:01:00,low,Real Estate
+PSA,Public Storage,Joseph Russell,2023,53259804672.0,8776291,31827,276:01:00,low,Real Estate
+O,Realty Income Corp.,Sumit Roy,2023,50843156480.0,13128810,134421,98:01:00,low,Real Estate
+VICI,Vici Properties Inc.,Edward Pitoniak,2023,34320486400.0,11277678,376391,30:01:00,low,Real Estate
+EXR,Extra Space Storage Inc.,Joseph Margolis,2023,33650614272.0,12280701,49954,246:01:00,low,Real Estate
+AVB,Avalonbay Communities Inc.,Benjamin Schall,2023,32175007744.0,9479687,80764,117:01:00,low,Real Estate
+EQR,Equity Residential,Mark Parrell,2023,29027837952.0,11361059,74135,153:01:00,low,Real Estate
+ESS,"Essex Property Trust, Inc.",Angela Kleiman,2023,21495060480.0,3076648,93662,37:01:00,low,Real Estate
+MAA,Mid America Apartment Communities Inc.,Eric Bolton,2023,20170532864.0,8015765,45501,176:01:00,low,Real Estate
+DOC,Physicians Realty Trust,John Thomas,2023,14313119744.0,4807847,109629,44:01:00,low,Real Estate
+REG,Regency Centers Corp.,Lisa Palmer,2023,13994834944.0,9269035,119778,77:01:00,low,Real Estate
+CPT,Camden Property Trust,Richard Campo,2023,13244273664.0,6911304,66122,105:01:00,low,Real Estate
+FRT,Federal Realty Investment Trust,Donald Wood,2023,9096586240.0,8941820,135358,66:01:00,low,Real Estate

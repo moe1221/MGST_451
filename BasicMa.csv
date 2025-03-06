@@ -1,0 +1,23 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+APD,"Air Products & Chemicals, Inc.",Seifi Ghasemi,2023,70335782912.0,22078099,66355,333:01:00,high,Basic Materials
+FCX,Freeport-mcmoran Inc.,Richard Adkerson,2023,53042249728.0,24017321,93911,256:01:00,high,Basic Materials
+DD,"Dupont de Nemours, Inc.",Edward Breen,2023,34183864320.0,19854971,93601,212:01:00,high,Basic Materials
+NUE,Nucor Corp.,Leon Topalian,2023,31691784192.0,22500626,105755,213:01:00,high,Basic Materials
+MLM,Martin Marietta Materials Inc.,C. Howard Nye,2023,29459027968.0,18488885,99816,185:01:00,high,Basic Materials
+DOW,Dow Inc.,Jim Fitterling,2023,26823036928.0,20829446,94600,220:01:00,high,Basic Materials
+LYB,Lyondellbasell Industries,Peter Vanacker,2023,24892919808.0,16546194,106365,156:01:00,high,Basic Materials
+EMN,Eastman Chemical Co.,Mark Costa,2023,11269188608.0,17597890,78643,224:01:00,high,Basic Materials
+ECL,Ecolab Inc.,Christophe Beck,2023,76129026048.0,15547055,49177,316:01:00,mid,Basic Materials
+VMC,Vulcan Materials Co.,Thomas Hill,2023,32672122880.0,13530753,99874,136:01:00,mid,Basic Materials
+PPG,PPG Industries Inc.,T. M. Knavish,2023,25695731712.0,9840723,49519,252:01:00,mid,Basic Materials
+IFF,International Flavors & Fragrances Inc.,"Frank K. Clyburn, Jr",2023,20917344256.0,10747653,57024,188:01:00,mid,Basic Materials
+STLD,Steel Dynamics Inc.,Mark Millett,2023,20563732480.0,11823662,119460,99:01:00,mid,Basic Materials
+CF,"CF Industries Holdings, Inc.",Anthony Will,2023,13735886848.0,12899559,140469,92:01:00,mid,Basic Materials
+ALB,Albemarle Corp.,Kent Masters,2023,9056648192.0,14472114,57103,253:01:00,mid,Basic Materials
+MOS,Mosaic Co.,James O RourkeJoc,2023,7598068224.0,11881204,33404,356:01:00,mid,Basic Materials
+CE,Celanese Corp.,Lori Ryerkerk,2023,5569372160.0,12972962,77662,167:01:00,mid,Basic Materials
+FMC,FMC Corp.,Mark Douglas,2023,4606448640.0,9623437,59199,163:01:00,mid,Basic Materials
+LIN,Linde PLC,Sanjiv Lamba,2023,220873539584.0,19200255,49230,390:01:00,low,Basic Materials
+SHW,Sherwin Williams Co.,Heidi Petz,2023,91061633024.0,10085512,49745,388:01:00,low,Basic Materials
+NEM,Newmont Corp.,Tom Palmer,2023,48274685952.0,11747104,55338,212:01:00,low,Basic Materials
+CTVA,"Corteva, Inc.",Charles Magro,2023,43176312832.0,13234872,77084,172:01:00,low,Basic Materials

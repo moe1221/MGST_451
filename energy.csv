@@ -1,0 +1,18 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+XOM,Exxon Mobil Corp.,D. W. Woods,2023,483076472832.0,36919898,185376,199:01:00,high,Energy
+PSX,Phillips 66,Mark Lashier,2023,52874350592.0,19409262,156695,124:01:00,high,Energy
+MPC,Marathon Petroleum Corp.,Michael Hennigan,2023,46942662656.0,24054492,176205,137:01:00,high,Energy
+BKR,Baker Hughes Co,Lorenzo Simonelli,2023,44149092352.0,21680736,69676,311:01:00,high,Energy
+DVN,Devon Energy Corp.,Richard Muncrief,2023,23490625536.0,14883151,175300,85:01:00,high,Energy
+HAL,Halliburton Co.,Jeffrey Miller,2023,22891587584.0,19911392,87310,228:01:00,high,Energy
+CTRA,Coterra Energy Inc.,Thomas Jorden,2023,20624435200.0,14547853,157111,93:01:00,high,Energy
+CVX,Chevron Corp.,M.K. Wirth,2023,279266361344.0,26489856,175673,151:01:00,mid,Energy
+WMB,"Williams Companies, Inc.",Alan Armstrong,2023,70942949376.0,17548802,126008,139:01:00,mid,Energy
+SLB,Schlumberger Limited/nv,Olivier Le Peuch,2023,56651767808.0,18249585,118141,154:01:00,mid,Energy
+FANG,"Diamondback Energy, Inc.",Travis D. Stice,2023,46009540608.0,17583386,167164,105:01:00,mid,Energy
+HES,Hess Corp.,John Hess,2023,45891096576.0,16750203,216197,78:01:00,mid,Energy
+OXY,Occidental Petroleum Corp.,Vicki Hollub,2023,45836390400.0,17735019,190610,93:01:00,mid,Energy
+TRGP,Targa Resources Corp.,Matthew Meloy,2023,43996545024.0,14191630,133130,107:01:00,mid,Energy
+EOG,Eog Resources Inc.,Ezra Yacob,2023,71397400576.0,14558772,198556,73:01:00,low,Energy
+KMI,"Kinder Morgan, Inc.",Kimberly Dang,2023,60215115776.0,12405510,132724,93:01:00,low,Energy
+EQT,EQT Corp.,Toby Rice,2023,28778733568.0,10600926,135105,78:01:00,low,Energy

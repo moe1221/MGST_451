@@ -1,0 +1,18 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+NFLX,Netflix Inc.,Ted Sarandos,2023,419441410048.0,49834936,200761,248:01:00,high,Communication Services
+TMUS,"T-Mobile US, Inc.",Michael Sievert,2023,307915882496.0,37488851,72004,521:01:00,high,Communication Services
+DIS,Walt Disney Co.,Robert A. Iger,2023,205726498816.0,31587166,54010,595:01:00,high,Communication Services
+CMCSA,Comcast Corp.,Brian Roberts,2023,135663001600.0,35473666,0,398:01:00,high,Communication Services
+CHTR,"Charter Communications, Inc.",Christopher Winfrey,2023,51608035328.0,89077078,54476,"1,635:1",high,Communication Services
+EA,Electronic Arts Inc.,Andrew Wilson,2023,33650995200.0,20659002,129851,159:01:00,high,Communication Services
+LYV,"Live Nation Entertainment, Inc.",Michael Rapino,2023,33132359680.0,23438317,28207,831:01:00,high,Communication Services
+WBD,"Warner Bros. Discovery, Inc.",David M. Zaslav,2023,28131549184.0,49702546,171163,290:01:00,high,Communication Services
+FOXA,Fox Corp.,Lachlan Murdoch,2023,25273266176.0,21777902,97491,223:01:00,high,Communication Services
+NWSA,News Corp.,Robert Thomson,2023,16963676160.0,19277292,77534,249:01:00,high,Communication Services
+MTCH,"Match Group, Inc.",Bernard Kim,2023,7962095616.0,16080272,139011,116:01:00,high,Communication Services
+META,"Meta Platforms, Inc.",Mark Zuckerberg,2023,1692991619072.0,24399968,379050,64:01:00,mid,Communication Services
+T,AT&T Inc.,John T. Stankey,2023,196753915904.0,26450157,137176,193:01:00,mid,Communication Services
+IPG,"Interpublic Group OF Companies, Inc.",Philippe Krakowsky,2023,10210582528.0,14441360,70319,205:01:00,mid,Communication Services
+GOOG,Alphabet Inc.,Sundar Pichai,2023,2087788609536.0,8802824,304930,29:01:00,low,Communication Services
+VZ,Verizon Communications Inc.,Kyle Malady,2023,181438070784.0,10810203,143498,168:01:00,low,Communication Services
+TTWO,Take Two Interactive Software Inc.,Strauss Zelnick,2023,37413621760.0,115015,75276,2:01,low,Communication Services

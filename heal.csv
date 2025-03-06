@@ -1,0 +1,55 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+CVS,CVS Health Corp.,Karen Lynch,2023,82859778048.0,21615034,55237,392:01:00,high,Healthcare
+HCA,"Hca Healthcare, Inc.",Samuel Hazen,2023,76067151872.0,21315984,59816,356:01:00,high,Healthcare
+CAH,Cardinal Health Inc.,Jason Hollar,2023,31278223360.0,18776433,69024,269:01:00,high,Healthcare
+CNC,Centene Corp.,Sarah London,2023,28849917952.0,18556966,79507,234:01:00,high,Healthcare
+LH,Laboratory Corp of America Holdings,Adam Schechter,2023,21012047872.0,15979355,61201,261:01:00,high,Healthcare
+ZBH,"Zimmer Biomet Holdings, Inc.",Bryan Hanson,2023,20766253056.0,12761312,66850,250:01:00,high,Healthcare
+DGX,Quest Diagnostics Inc.,James Davis,2023,19188094976.0,12673834,68163,186:01:00,high,Healthcare
+COO,"Cooper Companies, Inc.",Albert White,2023,18072113152.0,13490923,39543,341:01:00,high,Healthcare
+BAX,Baxter International Inc.,José Almeida,2023,17656176640.0,13786671,48566,284:01:00,high,Healthcare
+MOH,"Molina Healthcare, Inc.",Joseph Zubretsky,2023,16712159232.0,21491723,78620,273:01:00,high,Healthcare
+HOLX,Hologic Inc.,Stephen MacMillan,2023,14224081920.0,15555032,94126,165:01:00,high,Healthcare
+INCY,Incyte Corp.,Hervé Hoppenot,2023,14224014336.0,16659526,267066,62:01:00,high,Healthcare
+ALGN,Align Technology Inc.,Joseph Hogan,2023,13802813440.0,28952411,22781,"1,271:1",high,Healthcare
+MRNA,"Moderna, Inc.",Stéphane Bancel,2023,11944862720.0,17068514,209627,81:01:00,high,Healthcare
+VTRS,Viatris Inc.,Scott Smith,2023,11016835072.0,15930409,36903,469:01:00,high,Healthcare
+TECH,Bio-Techne Corp.,Charles Kummeth,2023,9761934336.0,30584644,105484,290:01:00,high,Healthcare
+LLY,Eli Lilly & Co,David Ricks,2023,826882260992.0,26565732,157937,168:01:00,mid,Healthcare
+UNH,UnitedHealth Group Inc.,Andrew Witty,2023,437098086400.0,23534936,66821,352:01:00,mid,Healthcare
+JNJ,Johnson & Johnson,Joaquin Duato,2023,397305479168.0,28397240,84000,338:01:00,mid,Healthcare
+ABBV,Abbvie Inc.,Richard A. Gonzalez,2023,369011097600.0,25661972,151991,169:01:00,mid,Healthcare
+ABT,Abbott Laboratories,Robert Ford,2023,239353495552.0,23268171,132152,176:01:00,mid,Healthcare
+AMGN,Amgen Inc.,Robert Bradway,2023,165491376128.0,22643650,166322,136:01:00,mid,Healthcare
+BSX,Boston Scientific Corp.,Michael Mahoney,2023,153171197952.0,18723735,54147,346:01:00,mid,Healthcare
+PFE,Pfizer Inc.,Albert Bourla,2023,149778546688.0,21562064,74008,291:01:00,mid,Healthcare
+DHR,Danaher Corp.,Rainer Blair,2023,148488142848.0,20903282,65010,322:01:00,mid,Healthcare
+SYK,Stryker Corp.,Kevin Lobo,2023,147362004992.0,20767847,84028,247:01:00,mid,Healthcare
+GILD,"Gilead Sciences, Inc.",Daniel O’Day,2023,142461108224.0,22607690,205866,110:01:00,mid,Healthcare
+VRTX,Vertex Pharmaceuticals Inc / MA,Reshma Kewalramani,2023,123205279744.0,20594441,247549,83:01:00,mid,Healthcare
+BMY,Bristol Myers Squibb Co.,Giovanni Caforio,2023,120987459584.0,19661434,151172,130:01:00,mid,Healthcare
+CI,Cigna Group,David M. Cordani,2023,84559732736.0,21047255,75191,280:01:00,mid,Healthcare
+MCK,Mckesson Corp.,Brian Tyler,2023,80241229824.0,20221325,68844,294:01:00,mid,Healthcare
+ZTS,Zoetis Inc.,Kristin Peck,2023,74888732672.0,15237853,74848,204:01:00,mid,Healthcare
+BDX,Becton Dickinson & Co.,Thomas Polen,2023,64757559296.0,17309938,42404,408:01:00,mid,Healthcare
+GEHC,GE HealthCare,Peter J. Arduini,2023,39944978432.0,17042211,74733,328:01:00,mid,Healthcare
+A,"Agilent Technologies, Inc.",Michael McMullen,2023,36486877184.0,16023410,78825,203:01:00,mid,Healthcare
+DXCM,Dexcom Inc.,Kevin R. Sayer,2023,34532524032.0,15712244,85574,184:01:00,mid,Healthcare
+RMD,Resmed Inc.,Michael Farrell,2023,34296383488.0,13868641,59197,235:01:00,mid,Healthcare
+HUM,Humana Inc.,Bruce Broussard,2023,32624822272.0,16327384,85122,192:01:00,mid,Healthcare
+PODD,Insulet Corp.,James Hollingshead,2023,19120457728.0,12379765,107199,115:01:00,mid,Healthcare
+UHS,Universal Health Services Inc.,Marc Miller,2023,11391600640.0,14407937,50152,287:01:00,mid,Healthcare
+WBA,"Walgreens Boots Alliance, Inc.",Rosalind Brewer,2023,9229154304.0,14134190,34763,407:01:00,mid,Healthcare
+CRL,"Charles River Laboratories International, Inc.",James Foster,2023,8454217728.0,14096924,53621,263:01:00,mid,Healthcare
+MRK,"Merck & Co., Inc.",Robert Davis,2023,233027190784.0,20273287,110827,183:01:00,low,Healthcare
+TMO,Thermo Fisher Scientific Inc.,Marc Casper,2023,199555989504.0,18976669,72762,261:01:00,low,Healthcare
+MDT,Medtronic PLC,Geoffrey Martha,2023,118019325952.0,15394633,67073,230:01:00,low,Healthcare
+REGN,"Regeneron Pharmaceuticals, Inc.",Leonard S. Schleifer,2023,76389752832.0,8184338,165843,49:01:00,low,Healthcare
+EW,Edwards Lifesciences Corp.,Mr. Zovighian,2023,42241478656.0,12869020,50368,265:01:00,low,Healthcare
+IDXX,Idexx Laboratories Inc.,Jonathan Mazelsky,2023,35549368320.0,11519309,61136,188:01:00,low,Healthcare
+MTD,Mettler Toledo International Inc.,Patrick Kaltenbach,2023,26620848128.0,8417336,46144,182:01:00,low,Healthcare
+WAT,Waters Corp.,Udit Batra,2023,22418108416.0,8742180,76668,114:01:00,low,Healthcare
+STE,Steris PLC,Daniel Carestio,2023,21542469632.0,7740184,68915,113:01:00,low,Healthcare
+WST,West Pharmaceutical Services Inc.,Eric M. Green,2023,16799065088.0,9395896,65395,144:01:00,low,Healthcare
+DVA,Davita Inc.,Javier Rodriguez,2023,11830400000.0,6712328,68007,99:01:00,low,Healthcare
+TFX,Teleflex Inc.,Liam Kelly,2023,6165401088.0,9039947,37432,242:01:00,low,Healthcare

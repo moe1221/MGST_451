@@ -1,0 +1,76 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+AAPL,Apple Inc.,Tim Cook,2023,3632944644096.0,63209845,94118,672:01:00,high,Technology
+NVDA,Nvidia Corp.,Jen-Hsun Huang,2024,3048047902720.0,34167902,266939,128:01:00,high,Technology
+MSFT,Microsoft Corp.,Satya Nadella,2023,2951215579136.0,48512537,193770,250:01:00,high,Technology
+AVGO,Broadcom Inc.,Hock Tan,2023,934800195584.0,161826161,317199,510:01:00,high,Technology
+CRM,"Salesforce, Inc.",Marc Benioff,2024,285042442240.0,39642173,164985,240:01:00,high,Technology
+CSCO,"Cisco Systems, Inc.",Charles Robbins,2023,255048171520.0,31843708,119165,267:01:00,high,Technology
+ACN,Accenture PLC,Julie Sweet,2023,217979781120.0,31550906,20670,"1,526:1",high,Technology
+NOW,"Servicenow, Inc.",William McDermott,2023,191983370240.0,37606244,214268,176:01:00,high,Technology
+ADBE,Adobe Inc.,Shantanu Narayen,2023,190905171968.0,44932578,196336,229:01:00,high,Technology
+AMD,Advanced Micro Devices Inc.,Lisa T. Su,2023,161821130752.0,30348281,127642,238:01:00,high,Technology
+UBER,"Uber Technologies, Inc.",Dara Khosrowshahi,2023,158785650688.0,24248209,83077,292:01:00,high,Technology
+AMAT,Applied Materials Inc.,Gary Dickerson,2023,128422559744.0,26854544,96883,277:01:00,high,Technology
+PANW,Palo Alto Networks Inc.,Nikesh Arora,2023,126083694592.0,151425203,206035,735:01:00,high,Technology
+ADI,Analog Devices Inc.,Vincent Roche,2023,114104238080.0,25543635,48425,527:01:00,high,Technology
+MU,Micron Technology Inc.,Sanjay Mehrotra,2023,104319729664.0,25276953,54570,463:01:00,high,Technology
+CRWD,"Crowdstrike Holdings, Inc.",George Kurtz,2024,95977545728.0,46983855,206034,177:01:00,high,Technology
+KLAC,KLA Corp.,Richard Wallace,2023,94195621888.0,26644359,88831,300:01:00,high,Technology
+MSI,"Motorola Solutions, Inc.",Gregory Brown,2023,73489006592.0,28178498,90726,311:01:00,high,Technology
+ROP,Roper Technologies Inc.,Neil Hunn,2023,62766530560.0,41295585,93861,440:01:00,high,Technology
+NXPI,NXP Semiconductors N.v.,Kurt Sievers,2023,54677934080.0,21123742,62028,341:01:00,high,Technology
+FICO,Fair Isaac Corp.,William Lansing,2023,46061080576.0,66349962,101674,653:01:00,high,Technology
+CTSH,Cognizant Technology Solutions Corp.,Ravi Kumar Current,2023,41216352256.0,22563405,40660,556:01:00,high,Technology
+FIS,"Fidelity National Information Services, Inc.",Stephanie L. Ferris,2023,37671698432.0,19435522,43839,443:01:00,high,Technology
+ANSS,Ansys Inc.,Ajei Gopal,2023,29209962496.0,24633791,117169,210:01:00,high,Technology
+HPQ,HP Inc.,Enrique Lores,2023,29109948416.0,19458431,67816,287:01:00,high,Technology
+FTV,Fortive Corp.,James Lico,2023,27066664960.0,17659164,77370,230:01:00,high,Technology
+HPE,Hewlett Packard Enterprise Co,Antonio Neri,2023,26018652160.0,20066549,66816,300:01:00,high,Technology
+GDDY,Godaddy Inc.,Aman Bhutani,2023,25373401088.0,15877217,106590,149:01:00,high,Technology
+ON,ON Semiconductor Corp.,Hassane El-Khoury,2023,19827857408.0,19965513,141397,"1,268:1",high,Technology
+PTC,PTC Inc.,James Heppelmann,2023,19688615936.0,15617171,82574,189:01:00,high,Technology
+TRMB,Trimble Inc.,Robert Painter,2023,17692108800.0,14954642,83971,178:01:00,high,Technology
+SWKS,"Skyworks Solutions, Inc.",Liam Griffin,2023,10714994688.0,17261436,32457,532:01:00,high,Technology
+ENPH,"Enphase Energy, Inc.",Badrinarayanan Kothandaraman,2023,7594562560.0,19527534,64379,303:01:00,high,Technology
+QCOM,Qualcomm Inc.,Cristiano Amon,2023,173830012928.0,23490335,105548,223:01:00,mid,Technology
+INTU,Intuit Inc.,Sasan Goodarzi,2023,171606343680.0,27305429,184705,148:01:00,mid,Technology
+CDNS,Cadence Design Systems Inc.,Anirudh Devgan,2023,68664053760.0,17341862,114804,151:01:00,mid,Technology
+ADSK,"Autodesk, Inc.",Andrew Anagnost,2023,59094720512.0,17600752,146199,141:01:00,mid,Technology
+TEL,TE Connectivity Ltd.,Terrence R. Curtin,2023,45955309568.0,16717748,28447,588:01:00,mid,Technology
+GLW,Corning,Wendell Weeks,2023,42956685312.0,15627653,42240,370:01:00,mid,Technology
+MPWR,Monolithic Power Systems Inc.,Michael Hsing,2023,29220331520.0,14643469,49493,296:01:00,mid,Technology
+KEYS,"Keysight Technologies, Inc.",Satish Dhanasekaran,2023,27614642176.0,10750924,85570,125:01:00,mid,Technology
+VRSN,Verisign Inc.,James Bidzos,2023,22503448576.0,12245901,217196,56:01:00,mid,Technology
+STX,Seagate Technology Holdings PLC,William Mosley,2023,21575061504.0,11436208,12065,948:01:00,mid,Technology
+NTAP,"Netapp, Inc.",George Kurian a b,2023,20291971072.0,11370423,154521,74:01:00,mid,Technology
+TER,"Teradyne, Inc.",Gregory Smith,2023,17766451200.0,10110437,98546,103:01:00,mid,Technology
+WDC,Western Digital Corp.,David Goeckeler,2023,17019028480.0,11031692,11519,958:01:00,mid,Technology
+JBL,Jabil Inc.,Kenneth Wilson,2023,16969161728.0,10237971,8804,"1,163:1",mid,Technology
+FFIV,"F5, Inc.",François Locoh-Donou,2023,16859261952.0,10856766,142691,76:01:00,mid,Technology
+ZBRA,Zebra Technologies Corp.,William Burns,2023,16187016192.0,11259895,64037,177:01:00,mid,Technology
+AKAM,Akamai Technologies Inc.,Dr. Leighton,2023,12127655936.0,13384975,114429,117:01:00,mid,Technology
+DAY,Dayforce,David D. Ossip,2023,9856410624.0,13591865,69111,197:01:00,mid,Technology
+ORCL,Oracle Corp.,Safra Catz,2023,464463167488.0,5250680,85991,61:01:00,low,Technology
+IBM,International Business Machines Corp.,A. Krishna,2023,234078519296.0,20398426,65463,312:01:00,low,Technology
+PLTR,Palantir Technologies Inc.,Alexander Karp,2023,199167950848.0,3498197,191630,18:01,low,Technology
+TXN,Texas Instruments Inc.,Richard Templeton,2023,178416173056.0,20892318,79577,272:01:00,low,Technology
+ADP,Automatic Data Processing Inc.,Maria Black,2023,128237600768.0,10682318,64996,197:01:00,low,Technology
+ANET,"Arista Networks, Inc.",Jayshree Ullal,2023,117347221504.0,15561987,189124,82:01:00,low,Technology
+INTC,Intel Corp.,Patrick P. Gelsinger,2023,102750896128.0,16855400,100100,168:01:00,low,Technology
+LRCX,Lam Research Corp.,Timothy Archer,2023,98508070912.0,18310099,81126,226:01:00,low,Technology
+FTNT,"Fortinet, Inc.",Ken Xie,2023,83056885760.0,16301613,124446,130:01:00,low,Technology
+APH,Amphenol Corp.,R.A. Norwitt,2023,80657924096.0,10944707,16944,646:01:00,low,Technology
+DELL,Dell Technologies Inc.,Michael Dell,2024,71696171008.0,3030405,74729,37:01:00,low,Technology
+SNPS,Synopsys Inc.,Sassine Ghazi,2023,70704635904.0,10067991,90759,140:01:00,low,Technology
+WDAY,"Workday, Inc.",Carl Eschenbach,2024,70048440320.0,2521664,233831,439:01:00,low,Technology
+GRMN,Garmin Ltd,Clifton Pemble,2023,44047044608.0,6540666,41063,159:01:00,low,Technology
+MCHP,Microchip Technology Inc.,Ganesh Moorthy,2023,31656028160.0,12276315,51229,240:01:00,low,Technology
+BR,"Broadridge Financial Solutions, Inc.",Timothy Gokey,2023,28227323904.0,12235278,67457,182:01:00,low,Technology
+CPAY,Corpay,Ronald F. Clarke,2023,25587421184.0,2669024,50798,53:01:00,low,Technology
+TDY,Teledyne Technologies Inc.,Robert Mehrabian,2023,24120858624.0,8557552,66824,128:01:00,low,Technology
+CDW,CDW Corp.,Christine Leahy,2023,23610073088.0,9020376,105264,86:01:00,low,Technology
+LDOS,"Leidos Holdings, Inc.",Thomas Bell,2023,17047775232.0,9187541,106046,91:01:00,low,Technology
+FSLR,"First Solar, Inc.",Mark Widmar,2023,14579702784.0,7725497,23560,328:01:00,low,Technology
+JKHY,Henry Jack & Associates Inc.,David Foss,2023,12654310400.0,10439026,84531,123:01:00,low,Technology
+PAYC,"Paycom Software, Inc.",Chad Richison,2023,12287312896.0,3118606,79173,39:01:00,low,Technology
+EPAM,"Epam Systems, Inc.",Arkadiy Dobkin,2023,11722975232.0,7545130,39153,193:01:00,low,Technology

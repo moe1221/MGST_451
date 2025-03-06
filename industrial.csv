@@ -1,0 +1,65 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+BA,Boeing Co.,David Calhoun,2023,130985426944.0,32770519,119873,273:01:00,high,Industrials
+DE,Deere & Co.,John C. May,2023,130493145088.0,26722519,94247,284:01:00,high,Industrials
+TT,Trane Technologies PLC,Dave Regnery,2023,79331729408.0,22856344,64148,356:01:00,high,Industrials
+ITW,Illinois Tool Works Inc.,Scott Santi,2023,77478133760.0,22507817,66624,338:01:00,high,Industrials
+TDG,Transdigm Group Inc.,Kevin Stein,2023,76678864896.0,23845374,58034,411:01:00,high,Industrials
+GD,General Dynamics Corp.,Phebe Novakovic,2023,68290666496.0,22582776,102785,220:01:00,high,Industrials
+NOC,Northrop Grumman Corp.,Kathy Warden,2023,66839633920.0,24737493,114197,217:01:00,high,Industrials
+DAL,"Delta Air Lines, Inc.",Edward Bastian,2023,38835232768.0,34214328,101947,336:01:00,high,Industrials
+LHX,"L3Harris Technologies, Inc.",Christopher Kubasik,2023,38813396992.0,19824247,106472,186:01:00,high,Industrials
+ROK,"Rockwell Automation, Inc.",Blake Moret,2023,32468912128.0,16765020,64024,262:01:00,high,Industrials
+UAL,"United Airlines Holdings, Inc.",Scott Kirby,2023,30851856384.0,18573299,81050,229:01:00,high,Industrials
+DOV,Dover Corp.,Richard Tobin,2023,27276212224.0,16795101,52946,317:01:00,high,Industrials
+GPN,Global Payments Inc.,Cameron Bready,2023,26069012480.0,16000483,56245,285:01:00,high,Industrials
+TXT,Textron Inc.,Scott Donnelly,2023,13643680768.0,20391762,104326,196:01:00,high,Industrials
+CHRW,"C. H. Robinson Worldwide, Inc.",David Bozeman,2023,12062904320.0,27966653,60720,572:01:00,high,Industrials
+HII,"Huntington Ingalls Industries, Inc.",Christopher Kastner,2023,6870480384.0,14100619,84115,168:01:00,high,Industrials
+CAT,Caterpillar Inc.,James Umpleby,2023,164384718848.0,25830332,59528,434:01:00,mid,Industrials
+ETN,Eaton Corp PLC,Craig Arnold,2023,115920068608.0,20493989,50683,405:01:00,mid,Industrials
+LMT,Lockheed Martin Corp.,James Taiclet,2023,106010787840.0,22813775,121901,187:01:00,mid,Industrials
+UPS,United Parcel Service Inc.,Carol Tomé,2023,101672099840.0,23390051,53669,436:01:00,mid,Industrials
+EMR,Emerson Electric Co.,Lal Karsanbhai,2023,68575883264.0,18317194,47840,383:01:00,mid,Industrials
+JCI,Johnson Controls International PLC,George Oliver,2023,56547508224.0,15882646,49465,321:01:00,mid,Industrials
+PCAR,Paccar Inc.,Preston Feight,2023,56279871488.0,15658665,93387,224:01:00,mid,Industrials
+CARR,Carrier Global Corp.,David Gitlin,2023,55986421760.0,17695200,51614,343:01:00,mid,Industrials
+AME,Ametek,David Zapico,2023,43663749120.0,14538544,68084,214:01:00,mid,Industrials
+OTIS,Otis Worldwide Corp.,Judy Marks,2023,39564664832.0,15924194,49048,325:01:00,mid,Industrials
+PWR,"Quanta Services, Inc.","Earl C. (Duke) Austin, Jr.",2023,38476648448.0,14624532,108385,135:01:00,mid,Industrials
+IR,Ingersoll Rand Inc.,Vicente Reynal,2023,34173376512.0,15523750,55400,280:01:00,mid,Industrials
+WAB,Westinghouse Air Brake Technologies Corp.,Rafael Santana,2023,31668385792.0,15493240,48924,317:01:00,mid,Industrials
+EFX,Equifax Inc.,Mark Begor,2023,30410684416.0,13049808,69056,189:01:00,mid,Industrials
+SNA,Snap-on Inc.,Nicholas Pinchuk,2023,17874989056.0,10574757,67206,157:01:00,mid,Industrials
+MAS,Masco Corp.,Keith Allman,2023,15936882688.0,12476381,56636,220:01:00,mid,Industrials
+J,Jacobs Solutions Inc.,Robert Pragada,2023,15699111936.0,10898649,91465,104:01:00,mid,Industrials
+PNR,Pentair PLC,John Stauch,2023,15525760000.0,10008469,57729,173:01:00,mid,Industrials
+SWK,"Stanley Black & Decker, Inc.",Donald Allan,2023,13361442816.0,13877644,64305,216:01:00,mid,Industrials
+GE,General Electric Co.,Lawrence Culp,2023,222149558272.0,14698285,73038,201:01:00,low,Industrials
+RTX,Raytheon Technologies Corp.,Gregory Hayes,2023,177158651904.0,21929459,117236,187:01:00,low,Industrials
+UNP,Union Pacific Corp.,Lance Fritz,2023,149071314944.0,15552576,137770,113:01:00,low,Industrials
+HON,Honeywell International Inc.,James Currier,2023,138361257984.0,4895383,80363,192:01:00,low,Industrials
+WM,Waste Management Inc.,"James C. Fish, Jr",2023,93604331520.0,14628854,97046,151:01:00,low,Industrials
+PH,Parker Hannifin Corp.,Jennifer Parmentier,2023,86080692224.0,16404346,80647,204:01:00,low,Industrials
+MMM,3M Co.,Michael Roman,2023,84214636544.0,16424566,61664,266:01:00,low,Industrials
+CTAS,Cintas Corp.,Todd Schneider,2023,83735379968.0,7570256,62513,121:01:00,low,Industrials
+RSG,"Republic Services, Inc.",Jon Vander Ark,2023,74017792000.0,11812059,75422,157:01:00,low,Industrials
+FDX,Fedex Corp.,Rajesh Subramaniam,2023,63319728128.0,13249823,45976,289:01:00,low,Industrials
+NSC,Norfolk Southern Corp.,Alan Shaw,2023,55646154752.0,13418978,123776,109:01:00,low,Industrials
+HWM,Howmet Aerospace Inc.,John Plant,2023,55326146560.0,7344588,58372,126:01:00,low,Industrials
+CPRT,Copart Inc.,Jeffrey Liaw,2023,52941893632.0,2009000,45224,44:01:00,low,Industrials
+CMI,Cummins Inc.,Jennifer Rumsey,2023,50617749504.0,12846068,63827,201:01:00,low,Industrials
+GWW,"W.W. Grainger, Inc.",D.G. Macpherson,2023,49239375872.0,10160673,65160,157:01:00,low,Industrials
+FAST,Fastenal Co.,Daniel Florness,2023,43427446784.0,3115507,46393,67:01:00,low,Industrials
+URI,"United Rentals, Inc.",Matthew Flannery,2023,41948057600.0,11002256,86568,127:01:00,low,Industrials
+VRSK,"Verisk Analytics, Inc.",Lee Shavel,2023,41649348608.0,10366566,87582,118:01:00,low,Industrials
+ODFL,"Old Dominion Freight Line, Inc.",Kevin M. Freeman,2023,37514190848.0,9496611,78853,156:01:00,low,Industrials
+XYL,Xylem Inc.,Patrick Decker,2023,31799070720.0,10825450,56420,192:01:00,low,Industrials
+HUBB,Hubbell Inc.,Gerben Bakker,2023,19942379520.0,9666284,49030,197:01:00,low,Industrials
+EXPD,Expeditors International OF Washington Inc.,Jeffrey Musser,2023,16199435264.0,7453361,51321,145:01:00,low,Industrials
+JBHT,Hunt J B Transport Services Inc.,John Roberts,2023,16120289280.0,8256333,66919,123:01:00,low,Industrials
+BLDR,"Builders Firstsource, Inc.",David Rush,2023,15792183296.0,8105991,68736,118:01:00,low,Industrials
+POOL,Pool Corp.,Peter Arvan,2023,13205258240.0,6103488,51621,118:01:00,low,Industrials
+NDSN,Nordson Corp.,Sundaram Nagarajan,2023,11967961088.0,6981645,85402,82:01:00,low,Industrials
+ALLE,Allegion PLC,John Stone,2023,11106438144.0,8997445,64092,140:01:00,low,Industrials
+AOS,Smith A O Corp.,Kevin Wheeler,2023,9541808128.0,8756656,49422,177:01:00,low,Industrials
+GNRC,Generac Holdings Inc.,Aaron Jagdfeld,2023,8116445696.0,7084966,70609,101:01:00,low,Industrials

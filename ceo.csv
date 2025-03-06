@@ -1,0 +1,489 @@
+,Ticker,Company,CEO,Year,CEO PaySort ascending
+2,AVGO,Broadcom Inc.,Hock Tan,2023,161826161
+3,PANW,Palo Alto Networks Inc.,Nikesh Arora,2023,151425203
+6,BX,Blackstone Inc.,Stephen Schwarzman,2023,119784375
+7,CHTR,"Charter Communications, Inc.",Christopher Winfrey,2023,89077078
+12,FICO,Fair Isaac Corp.,William Lansing,2023,66349962
+13,AAPL,Apple Inc.,Tim Cook,2023,63209845
+17,PLD,"Prologis, Inc.",Hamid Moghadam,2023,50891597
+19,KKR,Kkr & Co. Inc.,Joseph Bae,2023,49959449
+20,NFLX,Netflix Inc.,Ted Sarandos,2023,49834936
+21,WBD,"Warner Bros. Discovery, Inc.",David M. Zaslav,2023,49702546
+24,MSFT,Microsoft Corp.,Satya Nadella,2023,48512537
+26,CRWD,"Crowdstrike Holdings, Inc.",George Kurtz,2024,46983855
+27,BKNG,Booking Holdings Inc.,Glenn Fogel,2023,46720734
+29,ADBE,Adobe Inc.,Shantanu Narayen,2023,44932578
+32,PYPL,"Paypal Holdings, Inc.",Alex Chriss,2023,41916755
+33,ROP,Roper Technologies Inc.,Neil Hunn,2023,41295585
+34,CRM,"Salesforce, Inc.",Marc Benioff,2024,39642173
+36,NOW,"Servicenow, Inc.",William McDermott,2023,37606244
+37,TMUS,"T-Mobile US, Inc.",Michael Sievert,2023,37488851
+38,XOM,Exxon Mobil Corp.,D. W. Woods,2023,36919898
+43,AXP,American Express Co.,S.J. Squeri,2023,35676905
+44,CMCSA,Comcast Corp.,Brian Roberts,2023,35473666
+45,JPM,J.P. Morgan Chase & Co.,James Dimon,2023,35093780
+46,RJF,Raymond James Financial Inc.,Paul Reilly,2023,34912956
+47,LEN,Lennar Corp,Stuart Miller,2023,34284913
+48,DAL,"Delta Air Lines, Inc.",Edward Bastian,2023,34214328
+49,NVDA,Nvidia Corp.,Jen-Hsun Huang,2024,34167902
+50,PEP,Pepsico Inc.,Ramon Laguarta,2023,33906212
+51,MS,Morgan Stanley,James Gorman,2023,32951606
+52,NKE,"Nike, Inc.",John Donahoe II,2023,32789885
+53,BA,Boeing Co.,David Calhoun,2023,32770519
+58,CSCO,"Cisco Systems, Inc.",Charles Robbins,2023,31843708
+60,DIS,Walt Disney Co.,Robert A. Iger,2023,31587166
+61,ACN,Accenture PLC,Julie Sweet,2023,31550906
+65,TECH,Bio-Techne Corp.,Charles Kummeth,2023,30584644
+67,AMD,Advanced Micro Devices Inc.,Lisa T. Su,2023,30348281
+69,VLO,Valero Energy Corp.,Joseph Gorder,2023,30037638
+72,CSGP,"Costar Group, Inc.",Andrew Florance,2023,29176180
+73,IQV,Iqvia Holdings Inc.,Ari Bousbib,2023,29151752
+77,ALGN,Align Technology Inc.,Joseph Hogan,2023,28952411
+79,COF,Capital One Financial Corp.,Richard Fairbank,2023,28589573
+80,BAC,Bank of America Corp.,Brian Moynihan,2023,28571192
+81,JNJ,Johnson & Johnson,Joaquin Duato,2023,28397240
+82,AMP,Ameriprise Financial Inc.,James Cracchiolo,2023,28378031
+83,MSI,"Motorola Solutions, Inc.",Gregory Brown,2023,28178498
+85,CHRW,"C. H. Robinson Worldwide, Inc.",David Bozeman,2023,27966653
+87,GM,General Motors Co,Mary Barra,2023,27847405
+88,CB,Chubb Ltd.,Evan Greenberg,2023,27661317
+89,ICE,"Intercontinental Exchange, Inc.",Jeffrey Sprecher,2023,27550872
+90,SRE,Sempra Energy,Jeffrey Martin,2023,27421881
+91,INTU,Intuit Inc.,Sasan Goodarzi,2023,27305429
+93,WMT,Walmart Inc.,Doug McMillon,2024,26968924
+94,BLK,Blackrock Inc.,Laurence Fink,2023,26939474
+95,AMAT,Applied Materials Inc.,Gary Dickerson,2023,26854544
+97,DE,Deere & Co.,John C. May,2023,26722519
+98,GS,Goldman Sachs Group Inc.,David Solomon,2023,26670817
+100,KLAC,KLA Corp.,Richard Wallace,2023,26644359
+101,LLY,Eli Lilly & Co,David Ricks,2023,26565732
+102,HLT,Hilton Worldwide Holdings Inc.,Christopher Nassetta,2023,26556464
+103,CVX,Chevron Corp.,M.K. Wirth,2023,26489856
+104,F,Ford Motor Co.,James Farley,2023,26470033
+105,FE,Firstenergy Corp.,Brian Tierney,2023,26452616
+106,T,AT&T Inc.,John T. Stankey,2023,26450157
+110,WFC,Wells Fargo & Company,Charles Scharf,2023,25966198
+112,CAT,Caterpillar Inc.,James Umpleby,2023,25830332
+113,MA,Mastercard Inc.,Michael Miebach,2023,25746498
+115,ABBV,Abbvie Inc.,Richard A. Gonzalez,2023,25661972
+116,ADI,Analog Devices Inc.,Vincent Roche,2023,25543635
+118,PM,Philip Morris International Inc.,Jacek Olczak,2023,25480514
+119,C,Citigroup Inc.,Jane Fraser,2023,25458313
+122,MU,Micron Technology Inc.,Sanjay Mehrotra,2023,25276953
+126,KO,Coca Cola Co.,James Quincey,2023,24742908
+127,NOC,Northrop Grumman Corp.,Kathy Warden,2023,24737493
+128,ANSS,Ansys Inc.,Ajei Gopal,2023,24633791
+129,AIG,"American International Group, Inc.",Peter Zaffino,2023,24617936
+130,ADM,Archer-Daniels-Midland Co,Juan Ricardo Luciano,2023,24414668
+131,META,"Meta Platforms, Inc.",Mark Zuckerberg,2023,24399968
+132,UBER,"Uber Technologies, Inc.",Dara Khosrowshahi,2023,24248209
+133,MPC,Marathon Petroleum Corp.,Michael Hennigan,2023,24054492
+135,FCX,Freeport-mcmoran Inc.,Richard Adkerson,2023,24017321
+136,EQIX,Equinix Inc.,Charles Meyers,2023,23927452
+137,SCHW,Schwab Charles Corp.,Walter Bettinger II,2023,23871744
+138,TDG,Transdigm Group Inc.,Kevin Stein,2023,23845374
+141,AON,AON PLC,Gregory Case,2023,23661834
+143,UNH,UnitedHealth Group Inc.,Andrew Witty,2023,23534936
+145,SO,Southern Co.,Christopher Womack,2023,23520387
+146,QCOM,Qualcomm Inc.,Cristiano Amon,2023,23490335
+147,CME,Cme Group Inc.,Terrence Duffy,2023,23468000
+148,LYV,"Live Nation Entertainment, Inc.",Michael Rapino,2023,23438317
+149,UPS,United Parcel Service Inc.,Carol Tomé,2023,23390051
+150,ABT,Abbott Laboratories,Robert Ford,2023,23268171
+153,USB,US Bancorp,Andrew Cecere,2023,22916957
+154,TT,Trane Technologies PLC,Dave Regnery,2023,22856344
+156,LMT,Lockheed Martin Corp.,James Taiclet,2023,22813775
+157,TRV,"Travelers Companies, Inc.",Alan Schnitzer,2023,22730072
+158,MAR,Marriott International Inc.,Anthony Capuano,2023,22664045
+159,AMGN,Amgen Inc.,Robert Bradway,2023,22643650
+160,GILD,"Gilead Sciences, Inc.",Daniel O’Day,2023,22607690
+161,V,Visa Inc.,Ryan McInerney,2023,22604568
+162,GD,General Dynamics Corp.,Phebe Novakovic,2023,22582776
+163,CTSH,Cognizant Technology Solutions Corp.,Ravi Kumar Current,2023,22563405
+164,ITW,Illinois Tool Works Inc.,Scott Santi,2023,22507817
+165,NUE,Nucor Corp.,Leon Topalian,2023,22500626
+166,CMG,Chipotle Mexican Grill Inc.,Brian Niccol,2023,22473427
+167,TJX,Tjx Companies Inc.,Ernie Herrman,2024,22222769
+168,APD,"Air Products & Chemicals, Inc.",Seifi Ghasemi,2023,22078099
+170,LVS,Las Vegas Sands Corp.,Robert Goldstein,2023,21937818
+171,RTX,Raytheon Technologies Corp.,Gregory Hayes,2023,21929459
+173,EL,Estee Lauder Companies Inc.,Fabrizio Freda,2023,21811244
+174,FOXA,Fox Corp.,Lachlan Murdoch,2023,21777902
+175,PG,Procter & Gamble Co,Jon Moeller,2023,21715625
+176,BKR,Baker Hughes Co,Lorenzo Simonelli,2023,21680736
+178,CVS,CVS Health Corp.,Karen Lynch,2023,21615034
+180,PFE,Pfizer Inc.,Albert Bourla,2023,21562064
+181,EBAY,Ebay Inc.,Jamie Iannone,2023,21560669
+183,MOH,"Molina Healthcare, Inc.",Joseph Zubretsky,2023,21491723
+184,XEL,Xcel Energy Inc.,Bob Frenzel,2023,21357168
+185,HCA,"Hca Healthcare, Inc.",Samuel Hazen,2023,21315984
+186,YUM,Yum Brands Inc.,David Gibbs,2023,21238955
+189,NXPI,NXP Semiconductors N.v.,Kurt Sievers,2023,21123742
+191,CI,Cigna Group,David M. Cordani,2023,21047255
+192,MDLZ,"Mondelez International, Inc.",Van de Put Dirk,2023,21018175
+193,DHR,Danaher Corp.,Rainer Blair,2023,20903282
+194,TXN,Texas Instruments Inc.,Richard Templeton,2023,20892318
+195,DOW,Dow Inc.,Jim Fitterling,2023,20829446
+197,COP,ConocoPhillips,R.M. Lance,2023,20770673
+198,SYK,Stryker Corp.,Kevin Lobo,2023,20767847
+200,AFL,AFLAC Inc.,Daniel Amos,2023,20703253
+201,EA,Electronic Arts Inc.,Andrew Wilson,2023,20659002
+203,VRTX,Vertex Pharmaceuticals Inc / MA,Reshma Kewalramani,2023,20594441
+204,NEE,Nextera Energy Inc.,John Ketchum,2023,20591124
+205,DUK,Duke Energy Corp.,Lynn Good,2023,20559875
+206,MET,Metlife Inc.,Michel Khalaf,2023,20526009
+208,ETN,Eaton Corp PLC,Craig Arnold,2023,20493989
+210,IBM,International Business Machines Corp.,A. Krishna,2023,20398426
+211,TXT,Textron Inc.,Scott Donnelly,2023,20391762
+212,LW,"Lamb Weston Holdings, Inc.",Thomas Werner,2023,20352276
+215,MRK,"Merck & Co., Inc.",Robert Davis,2023,20273287
+217,MCK,Mckesson Corp.,Brian Tyler,2023,20221325
+220,OMC,Omnicom Group Inc.,John Wren,2023,20150620
+223,HPE,Hewlett Packard Enterprise Co,Antonio Neri,2023,20066549
+224,ON,ON Semiconductor Corp.,Hassane El-Khoury,2023,19965513
+225,PNC,"PNC Financial Services Group, Inc.",William Demchak,2023,19950306
+226,HAL,Halliburton Co.,Jeffrey Miller,2023,19911392
+227,DD,"Dupont de Nemours, Inc.",Edward Breen,2023,19854971
+228,LHX,"L3Harris Technologies, Inc.",Christopher Kubasik,2023,19824247
+233,AMT,American Tower Corp,Thomas Bartlett,2023,19709245
+234,BMY,Bristol Myers Squibb Co.,Giovanni Caforio,2023,19661434
+236,ENPH,"Enphase Energy, Inc.",Badrinarayanan Kothandaraman,2023,19527534
+237,SPGI,S&P Global Inc.,Douglas Peterson,2023,19506412
+239,HPQ,HP Inc.,Enrique Lores,2023,19458431
+240,FIS,"Fidelity National Information Services, Inc.",Stephanie L. Ferris,2023,19435522
+241,PSX,Phillips 66,Mark Lashier,2023,19409262
+242,BWA,Borgwarner Inc.,Frédéric Lissalde,2023,19308195
+245,NWSA,News Corp.,Robert Thomson,2023,19277292
+246,PRU,Prudential Financial Inc.,Charles F. Lowrey,2023,19213328
+247,TGT,Target Corp.,Brian Cornell,2023,19203353
+248,LIN,Linde PLC,Sanjiv Lamba,2023,19200255
+249,SYF,Synchrony Financial,Brian Doubles,2023,19175684
+250,MCD,Mcdonalds Corp.,Christopher Kempczinski,2023,19155001
+251,MMC,"Marsh & Mclennan Companies, Inc.",John Doyle,2023,19054956
+252,TMO,Thermo Fisher Scientific Inc.,Marc Casper,2023,18976669
+257,ES,Eversource Energy,Joseph Nolan,2023,18885577
+261,AZO,Autozone Inc.,William Rhodes,2023,18796822
+263,CAH,Cardinal Health Inc.,Jason Hollar,2023,18776433
+265,BSX,Boston Scientific Corp.,Michael Mahoney,2023,18723735
+266,CAG,Conagra Brands Inc.,Sean Connolly,2023,18720100
+267,CZR,"Caesars Entertainment, Inc.",Thomas Reeg,2023,18610359
+269,UAL,"United Airlines Holdings, Inc.",Scott Kirby,2023,18573299
+270,CNC,Centene Corp.,Sarah London,2023,18556966
+272,MO,"Altria Group, Inc.",William Gifford,2023,18528628
+276,NDAQ,"Nasdaq, Inc.",Adena Friedman,2023,18498752
+277,MLM,Martin Marietta Materials Inc.,C. Howard Nye,2023,18488885
+279,CBRE,"Cbre Group, Inc.",Robert Sulentic,2023,18358834
+282,EMR,Emerson Electric Co.,Lal Karsanbhai,2023,18317194
+283,LRCX,Lam Research Corp.,Timothy Archer,2023,18310099
+286,SLB,Schlumberger Limited/nv,Olivier Le Peuch,2023,18249585
+288,LOW,Lowes Companies Inc.,Marvin Ellison,2023,18162272
+290,ROST,"Ross Stores, Inc.",Barbara Rentler,2023,18094944
+291,APTV,Aptiv PLC,Kevin Clark,2023,18000136
+293,MNST,Monster Beverage Corp.,Rodney Sacks,2023,17875482
+296,OXY,Occidental Petroleum Corp.,Vicki Hollub,2023,17735019
+298,CARR,Carrier Global Corp.,David Gitlin,2023,17695200
+299,HST,"Host Hotels & Resorts, Inc.",James Risoleo,2023,17694586
+300,FTV,Fortive Corp.,James Lico,2023,17659164
+301,ADSK,"Autodesk, Inc.",Andrew Anagnost,2023,17600752
+302,EMN,Eastman Chemical Co.,Mark Costa,2023,17597890
+303,BG,Bunge Global SA,Gregory Heckman,2023,17587870
+304,FANG,"Diamondback Energy, Inc.",Travis D. Stice,2023,17583386
+306,WMB,"Williams Companies, Inc.",Alan Armstrong,2023,17548802
+307,COR,Cencora,Steven H. Collis,2023,17511240
+310,CDNS,Cadence Design Systems Inc.,Anirudh Devgan,2023,17341862
+312,BDX,Becton Dickinson & Co.,Thomas Polen,2023,17309938
+314,SWKS,"Skyworks Solutions, Inc.",Liam Griffin,2023,17261436
+315,RCL,Royal Caribbean Cruises Ltd.,Jason Liberty,2023,17216276
+316,WELL,Welltower Inc.,Shankh Mitra,2023,17199891
+318,CL,Colgate Palmolive Co.,Noel Wallace,2023,17121584
+320,MRNA,"Moderna, Inc.",Stéphane Bancel,2023,17068514
+323,GEHC,GE HealthCare,Peter J. Arduini,2023,17042211
+325,K,Kellogg Co.,Steve Cahillane,2023,17038641
+326,MGM,Mgm Resorts International,William Hornbuckle,2023,17003794
+328,PCG,PG&E Corp.,Patricia Poppe,2023,16994840
+331,COST,Costco Wholesale,Craig Jelinek,2023,16870623
+332,INTC,Intel Corp.,Patrick P. Gelsinger,2023,16855400
+333,WRB,Berkley W R Corp.,Robert Berkley,2023,16813566
+334,BK,Bank of New York Mellon Corp.,Robin Vince,2023,16801167
+335,DOV,Dover Corp.,Richard Tobin,2023,16795101
+337,ROK,"Rockwell Automation, Inc.",Blake Moret,2023,16765020
+339,HES,Hess Corp.,John Hess,2023,16750203
+342,TEL,TE Connectivity Ltd.,Terrence R. Curtin,2023,16717748
+343,INCY,Incyte Corp.,Hervé Hoppenot,2023,16659526
+347,LYB,Lyondellbasell Industries,Peter Vanacker,2023,16546194
+350,KMB,Kimberly Clark Corp.,Michael Hsu,2023,16528052
+352,LULU,Lululemon Athletica Inc.,Calvin McDonald,2023,16494777
+353,ALL,Allstate Corp.,Thomas Wilson,2023,16487957
+354,MMM,3M Co.,Michael Roman,2023,16424566
+356,HIG,"Hartford Financial Services Group, Inc.",Christopher Swift,2023,16408250
+357,PH,Parker Hannifin Corp.,Jennifer Parmentier,2023,16404346
+358,GIS,General Mills Inc.,Jeffrey Harmening,2023,16385646
+359,HUM,Humana Inc.,Bruce Broussard,2023,16327384
+361,FTNT,"Fortinet, Inc.",Ken Xie,2023,16301613
+362,IT,Gartner Inc.,Eugene Hall,2023,16299489
+364,CNP,Centerpoint Energy Inc.,David Lesar,2023,16204475
+366,ED,Consolidated Edison Inc.,Timothy P. Cawley,2023,16176871
+368,WYNN,Wynn Resorts Ltd,Craig Billings,2023,16152634
+374,MTCH,"Match Group, Inc.",Bernard Kim,2023,16080272
+375,STZ,"Constellation Brands, Inc.",William Newlands,2023,16068340
+376,A,"Agilent Technologies, Inc.",Michael McMullen,2023,16023410
+377,GPN,Global Payments Inc.,Cameron Bready,2023,16000483
+378,LH,Laboratory Corp of America Holdings,Adam Schechter,2023,15979355
+381,VTRS,Viatris Inc.,Scott Smith,2023,15930409
+383,OTIS,Otis Worldwide Corp.,Judy Marks,2023,15924194
+385,JCI,Johnson Controls International PLC,George Oliver,2023,15882646
+387,GDDY,Godaddy Inc.,Aman Bhutani,2023,15877217
+393,DXCM,Dexcom Inc.,Kevin R. Sayer,2023,15712244
+394,KR,Kroger Co.,Rodney McMullen,2023,15710572
+395,BEN,Franklin Resources Inc.,Jennifer Johnson,2023,15694227
+397,PCAR,Paccar Inc.,Preston Feight,2023,15658665
+399,HSY,Hershey Co.,Ms. Buck,2023,15654209
+400,PGR,Progressive Corp.,Susan Patricia Griffith,2023,15636618
+401,GLW,Corning,Wendell Weeks,2023,15627653
+403,PTC,PTC Inc.,James Heppelmann,2023,15617171
+407,SPG,Simon Property Group Inc.,David Simon,2023,15564307
+408,ANET,"Arista Networks, Inc.",Jayshree Ullal,2023,15561987
+409,HOLX,Hologic Inc.,Stephen MacMillan,2023,15555032
+410,UNP,Union Pacific Corp.,Lance Fritz,2023,15552576
+411,ECL,Ecolab Inc.,Christophe Beck,2023,15547055
+414,IR,Ingersoll Rand Inc.,Vicente Reynal,2023,15523750
+416,AJG,Arthur J. Gallagher & Co.,Pat Gallagher,2023,15496222
+417,WAB,Westinghouse Air Brake Technologies Corp.,Rafael Santana,2023,15493240
+418,ARE,"Alexandria Real Estate Equities, Inc.",Joel Marcus,2023,15485330
+425,MDT,Medtronic PLC,Geoffrey Martha,2023,15394633
+432,ZTS,Zoetis Inc.,Kristin Peck,2023,15237853
+433,PKG,Packaging Corp of America,Mark Kowlzan,2023,15228190
+435,CEG,Constellation Energy Corp.,Joseph Dominguez,2023,15185385
+437,PFG,Principal Financial Group Inc.,Daniel Houston,2023,15118828
+438,HAS,"Hasbro, Inc.",Chris Cocks,2023,15110869
+441,TRMB,Trimble Inc.,Robert Painter,2023,14954642
+443,DVN,Devon Energy Corp.,Richard Muncrief,2023,14883151
+444,EIX,Edison International,Pedro Pizarro,2023,14881111
+445,IRM,Iron Mountain Inc.,William Meaney,2023,14867140
+452,GE,General Electric Co.,Lawrence Culp,2023,14698285
+455,CCI,Crown Castle Inc.,Jay Brown,2023,14676171
+456,MPWR,Monolithic Power Systems Inc.,Michael Hsing,2023,14643469
+457,WM,Waste Management Inc.,"James C. Fish, Jr",2023,14628854
+458,PWR,"Quanta Services, Inc.","Earl C. (Duke) Austin, Jr.",2023,14624532
+460,SBUX,Starbucks Corp.,Laxman Narasimhan,2023,14604531
+463,EOG,Eog Resources Inc.,Ezra Yacob,2023,14558772
+464,CTRA,Coterra Energy Inc.,Thomas Jorden,2023,14547853
+465,AME,Ametek,David Zapico,2023,14538544
+466,TPR,"Tapestry, Inc.",Joanne Crevoiserat Interim,2023,14489503
+467,ALB,Albemarle Corp.,Kent Masters,2023,14472114
+468,RL,Ralph Lauren Corp.,Patrice Louvet,2023,14471356
+469,BBY,Best Buy CO Inc.,Corie Barry,2024,14443881
+470,IPG,"Interpublic Group OF Companies, Inc.",Philippe Krakowsky,2023,14441360
+472,HD,"Home Depot, Inc.",Edward Decker,2023,14419252
+473,UHS,Universal Health Services Inc.,Marc Miller,2023,14407937
+475,MCO,Moodys Corp.,Robert Fauber,2023,14387659
+482,SYY,Sysco Corp.,Kevin Hourican,2023,14341020
+489,TRGP,Targa Resources Corp.,Matthew Meloy,2023,14191630
+490,DHI,Horton D R Inc.,Paul J. Romanowski,2023,14189342
+492,WBA,"Walgreens Boots Alliance, Inc.",Rosalind Brewer,2023,14134190
+494,HII,"Huntington Ingalls Industries, Inc.",Christopher Kastner,2023,14100619
+495,CRL,"Charles River Laboratories International, Inc.",James Foster,2023,14096924
+496,KVUE,Kenvue,Thibaut Mongon,2023,14089158
+497,CSX,CSX Corp.,Joseph Hinrichs,2023,14074235
+500,KIM,Kimco Realty Corp.,Conor Flynn,2023,13951194
+504,SWK,"Stanley Black & Decker, Inc.",Donald Allan,2023,13877644
+505,RMD,Resmed Inc.,Michael Farrell,2023,13868641
+511,CCL,Carnival Corp.,Josh Weinstein,2023,13808603
+512,MSCI,MSCI Inc.,Henry Fernandez,2023,13793145
+513,BAX,Baxter International Inc.,José Almeida,2023,13786671
+514,APA,APA Corp.,John Christmann,2023,13763441
+519,JNPR,Juniper Networks Inc.,Rami Rahim,2023,13646142
+522,DAY,Dayforce,David D. Ossip,2023,13591865
+527,VMC,Vulcan Materials Co.,Thomas Hill,2023,13530753
+528,VTR,"Ventas, Inc.",Debra Cafaro,2023,13520625
+531,COO,"Cooper Companies, Inc.",Albert White,2023,13490923
+535,STT,State Street Corp.,Ronald O’Hanley,2023,13449164
+539,NSC,Norfolk Southern Corp.,Alan Shaw,2023,13418978
+543,AKAM,Akamai Technologies Inc.,Dr. Leighton,2023,13384975
+548,FDX,Fedex Corp.,Rajesh Subramaniam,2023,13249823
+549,CTVA,"Corteva, Inc.",Charles Magro,2023,13234872
+552,TSN,"Tyson Foods, Inc.",Donnie King,2023,13180119
+555,O,Realty Income Corp.,Sumit Roy,2023,13128810
+556,NRG,"NRG Energy, Inc.",Mauricio Gutierrez,2023,13128160
+558,ACGL,Arch Capital Group Ltd.,Marc Grandisson,2023,13102252
+561,EFX,Equifax Inc.,Mark Begor,2023,13049808
+563,WY,Weyerhaeuser Co.,Devin Stockfish,2023,13022431
+565,CE,Celanese Corp.,Lori Ryerkerk,2023,12972962
+566,BXP,Boston Properties Inc.,Owen Thomas,2023,12963964
+568,CF,"CF Industries Holdings, Inc.",Anthony Will,2023,12899559
+569,EW,Edwards Lifesciences Corp.,Mr. Zovighian,2023,12869020
+571,CMI,Cummins Inc.,Jennifer Rumsey,2023,12846068
+572,IP,International Paper CO,Mark Sutton,2023,12845526
+575,TROW,Price T Rowe Group Inc.,Robert Sharps,2023,12841931
+578,ZBH,"Zimmer Biomet Holdings, Inc.",Bryan Hanson,2023,12761312
+582,AES,AES Corp.,Andrés Gluski,2023,12716194
+584,DGX,Quest Diagnostics Inc.,James Davis,2023,12673834
+585,WTW,Willis Towers Watson,Carl Hess,2023,12668832
+586,ULTA,"Ulta Beauty, Inc.",David Kimbell,2023,12663880
+595,PHM,Pultegroup Inc.,Ryan Marshall,2023,12530908
+599,MAS,Masco Corp.,Keith Allman,2023,12476381
+602,ISRG,Intuitive Surgical Inc.,Gary Guthart,2023,12449381
+605,KMI,"Kinder Morgan, Inc.",Kimberly Dang,2023,12405510
+609,PODD,Insulet Corp.,James Hollingshead,2023,12379765
+610,DLR,"Digital Realty Trust, Inc.",Andrew Power,2023,12355560
+616,EXR,Extra Space Storage Inc.,Joseph Margolis,2023,12280701
+617,MCHP,Microchip Technology Inc.,Ganesh Moorthy,2023,12276315
+618,EXC,Exelon Corp.,Calvin Butler,2023,12266720
+619,KMX,Carmax Inc.,William Nash,2024,12257314
+621,VRSN,Verisign Inc.,James Bidzos,2023,12245901
+623,BR,"Broadridge Financial Solutions, Inc.",Timothy Gokey,2023,12235278
+625,TAP,Molson Coors Beverage Co.,Gavin D.K. Hattersley,2023,12210558
+628,LKQ,LKQ Corp.,Dominick Zarcone,2023,12189021
+639,TFC,Truist Financial Corp.,William Rogers,2023,12037646
+644,PPL,PPL Corp.,Vincent Sorgi,2023,11969556
+650,MOS,Mosaic Co.,James O RourkeJoc,2023,11881204
+651,IVZ,Invesco Ltd.,Andrew Schlossberg,2023,11864931
+653,STLD,Steel Dynamics Inc.,Mark Millett,2023,11823662
+656,RSG,"Republic Services, Inc.",Jon Vander Ark,2023,11812059
+661,PEG,Public Service Enterprise Group Inc.,Ralph LaRossa,2023,11778863
+662,UDR,"UDR, Inc.",Thomas Toomey,2023,11755015
+663,NEM,Newmont Corp.,Tom Palmer,2023,11747104
+666,CPB,Campbell Soup Co.,Mark Clouse,2023,11699822
+673,CLX,Clorox CO,Linda Rendle,2023,11649650
+678,IDXX,Idexx Laboratories Inc.,Jonathan Mazelsky,2023,11519309
+685,STX,Seagate Technology Holdings PLC,William Mosley,2023,11436208
+687,GPC,Genuine Parts Co.,Paul Donahue,2023,11398274
+688,DECK,Deckers Outdoor Corp.,Dave Powers,2023,11391476
+689,TSCO,Tractor Supply Co,Harry Lawton,2023,11374666
+690,NTAP,"Netapp, Inc.",George Kurian a b,2023,11370423
+692,EQR,Equity Residential,Mark Parrell,2023,11361059
+693,KHC,Kraft Heinz Co,Miguel Patricio,2023,11359250
+697,SJM,J M Smucker Co,Mark Smucker,2023,11348537
+703,VICI,Vici Properties Inc.,Edward Pitoniak,2023,11277678
+704,SBAC,SBA Communications Corp.,Jeffrey Stoops,2023,11261032
+705,ZBRA,Zebra Technologies Corp.,William Burns,2023,11259895
+710,CHD,Church & Dwight CO Inc.,Matthew Farrell,2023,11182166
+717,CFG,Citizens Financial Group Inc.,Bruce Van Saun,2023,11075271
+722,WDC,Western Digital Corp.,David Goeckeler,2023,11031692
+725,URI,"United Rentals, Inc.",Matthew Flannery,2023,11002256
+730,APH,Amphenol Corp.,R.A. Norwitt,2023,10944707
+732,J,Jacobs Solutions Inc.,Robert Pragada,2023,10898649
+738,FFIV,"F5, Inc.",François Locoh-Donou,2023,10856766
+744,XYL,Xylem Inc.,Patrick Decker,2023,10825450
+746,VZ,Verizon Communications Inc.,Kyle Malady,2023,10810203
+752,KEYS,"Keysight Technologies, Inc.",Satish Dhanasekaran,2023,10750924
+753,IFF,International Flavors & Fragrances Inc.,"Frank K. Clyburn, Jr",2023,10747653
+759,ADP,Automatic Data Processing Inc.,Maria Black,2023,10682318
+766,AEP,American Electric Power CO Inc.,Julia A. Sloat,2023,10633745
+771,EQT,EQT Corp.,Toby Rice,2023,10600926
+774,SNA,Snap-on Inc.,Nicholas Pinchuk,2023,10574757
+782,VST,Vistra Corp.,James Burke,2023,10453376
+783,JKHY,Henry Jack & Associates Inc.,David Foss,2023,10439026
+789,INVH,Invitation Homes Inc.,Dallas Tanner,2023,10393322
+790,ETR,Entergy Corp.,Andrew Marsh,2023,10373208
+792,VRSK,"Verisk Analytics, Inc.",Lee Shavel,2023,10366566
+796,AIZ,"Assurant, Inc.",Keith Demmings,2023,10331024
+803,DTE,DTE Energy Co.,Gerardo Norcia,2023,10278098
+806,KEY,Keycorp,Christopher Gorman,2023,10268718
+809,JBL,Jabil Inc.,Kenneth Wilson,2023,10237971
+817,HBAN,Huntington Bancshares Inc.,Stephen Steinour,2023,10179479
+818,NTRS,Northern Trust Corp.,Michael O’Grady,2023,10174760
+820,GWW,"W.W. Grainger, Inc.",D.G. Macpherson,2023,10160673
+824,DPZ,Dominos Pizza Inc.,Russell Weiner,2023,10135862
+830,TER,"Teradyne, Inc.",Gregory Smith,2023,10110437
+833,SHW,Sherwin Williams Co.,Heidi Petz,2023,10085512
+836,SNPS,Synopsys Inc.,Sassine Ghazi,2023,10067991
+844,PNR,Pentair PLC,John Stauch,2023,10008469
+846,HSIC,Henry Schein Inc.,Stanley M. Bergman,2023,10005729
+864,PPG,PPG Industries Inc.,T. M. Knavish,2023,9840723
+874,BRO,"Brown & Brown, Inc.",Powell Brown,2023,9786745
+878,LNT,Alliant Energy Corp.,John Larsen,2023,9709782
+884,HUBB,Hubbell Inc.,Gerben Bakker,2023,9666284
+888,CMS,CMS Energy Corp.,Garrick Rochow,2023,9637210
+889,FMC,FMC Corp.,Mark Douglas,2023,9623437
+898,WEC,"Wec Energy Group, Inc.",Scott Lauber,2023,9552179
+900,OKE,Oneok Inc.,Pierce Norton II,2023,9547574
+904,ODFL,"Old Dominion Freight Line, Inc.",Kevin M. Freeman,2023,9496611
+909,AVB,Avalonbay Communities Inc.,Benjamin Schall,2023,9479687
+918,WST,West Pharmaceutical Services Inc.,Eric M. Green,2023,9395896
+919,FITB,Fifth Third Bancorp,Timothy Spence,2023,9385726
+920,MTB,M&T Bank Corp.,René F. Jones,2023,9385557
+927,PNW,Pinnacle West Capital Corp.,Jeffrey Guldner,2023,9322192
+930,LUV,Southwest Airlines Co.,Robert Jordan,2023,9307298
+931,REG,Regency Centers Corp.,Lisa Palmer,2023,9269035
+937,RF,Regions Financial Corp.,John Turner,2023,9217718
+938,NI,Nisource Inc.,Lloyd Yates,2023,9216680
+945,LDOS,"Leidos Holdings, Inc.",Thomas Bell,2023,9187541
+959,TFX,Teleflex Inc.,Liam Kelly,2023,9039947
+960,TYL,Tyler Technologies Inc.,Lynn Moore,2023,9028592
+962,CDW,CDW Corp.,Christine Leahy,2023,9020376
+964,AEE,Ameren Corp.,Martin Lyons,2023,9009431
+965,ALLE,Allegion PLC,John Stone,2023,8997445
+966,DG,Dollar General Corp.,Todd Vasos,2023,8980117
+972,FRT,Federal Realty Investment Trust,Donald Wood,2023,8941820
+990,NCLH,Norwegian Cruise Line Holdings Ltd.,Harry Sommer,2023,8864592
+997,GOOG,Alphabet Inc.,Sundar Pichai,2023,8802824
+1000,PSA,Public Storage,Joseph Russell,2023,8776291
+1003,AOS,Smith A O Corp.,Kevin Wheeler,2023,8756656
+1007,WAT,Waters Corp.,Udit Batra,2023,8742180
+1030,TDY,Teledyne Technologies Inc.,Robert Mehrabian,2023,8557552
+1037,DRI,Darden Restaurants Inc.,Ricardo Cardenas,2023,8500029
+1049,MTD,Mettler Toledo International Inc.,Patrick Kaltenbach,2023,8417336
+1055,CINF,Cincinnati Financial Corp.,Steven J. Johnston,2023,8381511
+1057,CBOE,"Cboe Global Markets, Inc.",Fredric J. Tomczyk,2023,8366510
+1064,MKTX,Marketaxess Holdings Inc.,Christopher Concannon,2023,8293086
+1074,JBHT,Hunt J B Transport Services Inc.,John Roberts,2023,8256333
+1086,REGN,"Regeneron Pharmaceuticals, Inc.",Leonard S. Schleifer,2023,8184338
+1097,BLDR,"Builders Firstsource, Inc.",David Rush,2023,8105991
+1098,ATO,Atmos Energy Corp.,Kevin Akers,2023,8104362
+1110,MAA,Mid America Apartment Communities Inc.,Eric Bolton,2023,8015765
+1137,ERIE,Erie Indemnity Co.,Timothy NeCastro,2023,7824320
+1150,IEX,Idex Corp.,Eric D. Ashleman,2023,7758876
+1156,STE,Steris PLC,Daniel Carestio,2023,7740184
+1160,FSLR,"First Solar, Inc.",Mark Widmar,2023,7725497
+1165,AWK,"American Water Works Company, Inc.",Susan Hardwick,2023,7720825
+1180,KDP,Keurig Dr Pepper Inc.,Robert Gamgort,2023,7620095
+1195,CTAS,Cintas Corp.,Todd Schneider,2023,7570256
+1198,EPAM,"Epam Systems, Inc.",Arkadiy Dobkin,2023,7545130
+1212,EXPD,Expeditors International OF Washington Inc.,Jeffrey Musser,2023,7453361
+1225,HWM,Howmet Aerospace Inc.,John Plant,2023,7344588
+1228,AMCR,Amcor PLC,Ron Delia,2023,7305995
+1248,GL,Globe Life Inc.,Frank Svoboda,2023,7206071
+1263,EVRG,"Evergy, Inc.",David Campbell,2023,7138724
+1271,GNRC,Generac Holdings Inc.,Aaron Jagdfeld,2023,7084966
+1297,NDSN,Nordson Corp.,Sundaram Nagarajan,2023,6981645
+1308,L,Loews Corp.,James Tisch,2023,6918337
+1311,CPT,Camden Property Trust,Richard Campo,2023,6911304
+1321,FDS,Factset Research Systems Inc.,Philip Snow,2023,6862015
+1333,HRL,Hormel Foods Corp.,James Snee,2023,6785979
+1349,DVA,Davita Inc.,Javier Rodriguez,2023,6712328
+1358,PAYX,Paychex Inc.,John Gibson,2023,6680180
+1383,ROL,Rollins Inc.,Gary W. Rollins,2023,6573646
+1387,GRMN,Garmin Ltd,Clifton Pemble,2023,6540666
+1438,D,"Dominion Energy, Inc.",Robert Blue,2023,6278835
+1471,VLTO,Veralto,Jennifer L. Honeycutt,2023,6140635
+1478,TPL,Texas Pacific Land Corp.,Tyler Glover,2023,6108717
+1479,POOL,Pool Corp.,Peter Arvan,2023,6103488
+1484,AVY,Avery Dennison Corp.,Deon Stander,2023,6070962
+1598,ORLY,O Reilly Automotive Inc.,Greg Johnson,2023,5603352
+1673,ORCL,Oracle Corp.,Safra Catz,2023,5250680
+1682,MKC,Mccormick & CO Inc.,Brendan Foley,2023,5213172
+1733,LII,Lennox International Inc.,Alok Maskara,2023,4983663
+1751,HON,Honeywell International Inc.,James Currier,2023,4895383
+1778,DOC,Physicians Realty Trust,John Thomas,2023,4807847
+1870,MHK,Mohawk Industries Inc.,Jeffrey Lorberbaum,2023,4428417
+1939,BIIB,Biogen Inc.,Christopher Viehbacher,2023,4069913
+2062,PLTR,Palantir Technologies Inc.,Alexander Karp,2023,3498197
+2101,DLTR,"Dollar Tree, Inc.",Richard Dreiling,2023,3360766
+2178,PAYC,"Paycom Software, Inc.",Chad Richison,2023,3118606
+2180,FAST,Fastenal Co.,Daniel Florness,2023,3115507
+2192,ESS,"Essex Property Trust, Inc.",Angela Kleiman,2023,3076648
+2204,DELL,Dell Technologies Inc.,Michael Dell,2024,3030405
+2311,CPAY,Corpay,Ronald F. Clarke,2023,2669024
+2360,WDAY,"Workday, Inc.",Carl Eschenbach,2024,2521664
+2475,DFS,Discover Financial Services,John B. Owen,2023,2188651
+2537,CPRT,Copart Inc.,Jeffrey Liaw,2023,2009000
+2647,NVR,NVR Inc.,Eugene Bredow,2023,1763200
+2843,AMZN,Amazon Com Inc.,Andrew Jassy,2023,1357764
+3060,EXPE,"Expedia Group, Inc.",Peter Kern,2023,1009900
+3506,BRK-B,Berkshire Hathaway Inc.,Warren Buffett,2023,413595
+3587,ABNB,"Airbnb, Inc.",Brian Chesky,2023,295125
+3663,TTWO,Take Two Interactive Software Inc.,Strauss Zelnick,2023,115015
+3681,AXON,Axon Enterprise,Patrick W. Smith,2023,40058
+3702,SMCI,"Super Micro Computer, Inc.",Charles Liang,2023,1
+3708,TSLA,"Tesla, Inc.",Elon Musk,2023,0

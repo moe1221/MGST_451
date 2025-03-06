@@ -1,0 +1,484 @@
+,Ticker,Company,Median Worker Pay,Pay RatioSort ascending
+10,ROST,"Ross Stores, Inc.",8618,"2,100:1"
+13,KO,Coca Cola Co.,13752,"1,799:1"
+15,CHTR,"Charter Communications, Inc.",54476,"1,635:1"
+16,APTV,Aptiv PLC,11647,"1,545:1"
+17,ACN,Accenture PLC,20670,"1,526:1"
+19,TJX,Tjx Companies Inc.,14857,"1,496:1"
+20,CMG,Chipotle Mexican Grill Inc.,16595,"1,354:1"
+22,ALGN,Align Technology Inc.,22781,"1,271:1"
+23,ON,ON Semiconductor Corp.,141397,"1,268:1"
+27,MCD,Mcdonalds Corp.,15802,"1,212:1"
+28,YUM,Yum Brands Inc.,17628,"1,205:1"
+33,JBL,Jabil Inc.,8804,"1,163:1"
+38,SBUX,Starbucks Corp.,14209,"1,028:1"
+43,WMT,Walmart Inc.,27642,976:01:00
+44,NKE,"Nike, Inc.",33646,975:01:00
+45,ULTA,"Ulta Beauty, Inc.",13193,960:01:00
+46,WDC,Western Digital Corp.,11519,958:01:00
+47,RCL,Royal Caribbean Cruises Ltd.,18073,953:01:00
+48,STX,Seagate Technology Holdings PLC,12065,948:01:00
+56,LULU,Lululemon Athletica Inc.,19518,845:01:00
+58,LYV,"Live Nation Entertainment, Inc.",28207,831:01:00
+59,CCL,Carnival Corp.,16789,822:01:00
+73,PANW,Palo Alto Networks Inc.,206035,735:01:00
+76,TGT,Target Corp.,26696,719:01:00
+78,AZO,Autozone Inc.,26669,705:01:00
+84,AXP,American Express Co.,52680,677:01:00
+85,AAPL,Apple Inc.,94118,672:01:00
+86,BG,Bunge Global SA,85513,655:01:00
+88,FICO,Fair Isaac Corp.,101674,653:01:00
+89,PEP,Pepsico Inc.,52356,648:01:00
+90,APH,Amphenol Corp.,16944,646:01:00
+91,EL,Estee Lauder Companies Inc.,33819,645:01:00
+93,MDLZ,"Mondelez International, Inc.",33093,635:01:00
+102,DIS,Walt Disney Co.,54010,595:01:00
+104,TEL,TE Connectivity Ltd.,28447,588:01:00
+107,CHRW,"C. H. Robinson Worldwide, Inc.",60720,572:01:00
+110,CZR,"Caesars Entertainment, Inc.",33250,560:01:00
+111,LOW,Lowes Companies Inc.,32626,557:01:00
+112,CTSH,Cognizant Technology Solutions Corp.,40660,556:01:00
+114,HLT,Hilton Worldwide Holdings Inc.,48435,549:01:00
+116,LVS,Las Vegas Sands Corp.,41185,533:01:00
+117,SWKS,"Skyworks Solutions, Inc.",32457,532:01:00
+119,ADI,Analog Devices Inc.,48425,527:01:00
+121,TMUS,"T-Mobile US, Inc.",72004,521:01:00
+122,DG,Dollar General Corp.,18657,521:01:00
+126,TSCO,Tractor Supply Co,22152,513:01:00
+129,AVGO,Broadcom Inc.,317199,510:01:00
+131,MAR,Marriott International Inc.,44805,506:01:00
+133,BKNG,Booking Holdings Inc.,92967,503:01:00
+134,KR,Kroger Co.,31302,502:01:00
+138,TPR,"Tapestry, Inc.",29535,491:01:00
+139,BWA,Borgwarner Inc.,39380,490:01:00
+141,BX,Blackstone Inc.,245000,489:01:00
+147,VTRS,Viatris Inc.,36903,469:01:00
+152,RL,Ralph Lauren Corp.,31187,464:01:00
+153,MU,Micron Technology Inc.,54570,463:01:00
+154,STZ,"Constellation Brands, Inc.",34821,461:01:00
+158,CB,Chubb Ltd.,61188,452:01:00
+160,SPGI,S&P Global Inc.,43834,445:01:00
+161,FIS,"Fidelity National Information Services, Inc.",43839,443:01:00
+162,BBY,Best Buy CO Inc.,32656,442:01:00
+164,ROP,Roper Technologies Inc.,93861,440:01:00
+165,WDAY,"Workday, Inc.",233831,439:01:00
+167,UPS,United Parcel Service Inc.,53669,436:01:00
+168,CAT,Caterpillar Inc.,59528,434:01:00
+174,TDG,Transdigm Group Inc.,58034,411:01:00
+175,HD,"Home Depot, Inc.",35131,410:01:00
+177,BDX,Becton Dickinson & Co.,42404,408:01:00
+178,WBA,"Walgreens Boots Alliance, Inc.",34763,407:01:00
+179,ETN,Eaton Corp PLC,50683,405:01:00
+180,ETN,Eaton Corp PLC,50683,405:01:00
+182,AVY,Avery Dennison Corp.,15679,403:01:00
+184,PLD,"Prologis, Inc.",127272,400:01:00
+186,CMCSA,Comcast Corp.,0,398:01:00
+189,CVS,CVS Health Corp.,55237,392:01:00
+193,LIN,Linde PLC,49230,390:01:00
+196,SHW,Sherwin Williams Co.,49745,388:01:00
+197,EMR,Emerson Electric Co.,47840,383:01:00
+199,DRI,Darden Restaurants Inc.,22248,382:01:00
+200,DRI,Darden Restaurants Inc.,22248,382:01:00
+201,NCLH,Norwegian Cruise Line Holdings Ltd.,23330,380:01:00
+204,PYPL,"Paypal Holdings, Inc.",94167,375:01:00
+205,MGM,Mgm Resorts International,45502,374:01:00
+206,IRM,Iron Mountain Inc.,40174,371:01:00
+208,GLW,Corning,42240,370:01:00
+209,PM,Philip Morris International Inc.,60974,369:01:00
+211,JPM,J.P. Morgan Chase & Co.,95988,366:01:00
+216,C,Citigroup Inc.,70731,360:01:00
+217,HSY,Hershey Co.,43527,360:01:00
+222,HCA,"Hca Healthcare, Inc.",59816,356:01:00
+224,MOS,Mosaic Co.,33404,356:01:00
+226,TT,Trane Technologies PLC,64148,356:01:00
+230,UNH,UnitedHealth Group Inc.,66821,352:01:00
+233,BSX,Boston Scientific Corp.,54147,346:01:00
+237,LW,"Lamb Weston Holdings, Inc.",59285,343:01:00
+238,CARR,Carrier Global Corp.,51614,343:01:00
+240,CARR,Carrier Global Corp.,51614,343:01:00
+242,NXPI,NXP Semiconductors N.v.,62028,341:01:00
+244,COO,"Cooper Companies, Inc.",39543,341:01:00
+245,PG,Procter & Gamble Co,64024,339:01:00
+246,ITW,Illinois Tool Works Inc.,66624,338:01:00
+247,JNJ,Johnson & Johnson,84000,338:01:00
+248,CL,Colgate Palmolive Co.,50885,336:01:00
+249,COST,Costco Wholesale,50202,336:01:00
+250,DAL,"Delta Air Lines, Inc.",101947,336:01:00
+253,APD,"Air Products & Chemicals, Inc.",66355,333:01:00
+254,SYF,Synchrony Financial,57653,333:01:00
+260,AMT,American Tower Corp,59881,329:01:00
+261,FSLR,"First Solar, Inc.",23560,328:01:00
+262,GEHC,GE HealthCare,74733,328:01:00
+266,WFC,Wells Fargo & Company,80012,325:01:00
+267,OTIS,Otis Worldwide Corp.,49048,325:01:00
+268,KMB,Kimberly Clark Corp.,51084,324:01:00
+269,AFL,AFLAC Inc.,63898,324:01:00
+271,DPZ,Dominos Pizza Inc.,31481,322:01:00
+272,K,Kellogg Co.,52936,322:01:00
+273,DHR,Danaher Corp.,65010,322:01:00
+274,FDS,Factset Research Systems Inc.,21301,322:01:00
+276,JCI,Johnson Controls International PLC,49465,321:01:00
+281,WAB,Westinghouse Air Brake Technologies Corp.,48924,317:01:00
+282,DOV,Dover Corp.,52946,317:01:00
+284,ECL,Ecolab Inc.,49177,316:01:00
+285,CAG,Conagra Brands Inc.,59177,316:01:00
+286,GIS,General Mills Inc.,51906,316:01:00
+289,TSN,"Tyson Foods, Inc.",41949,314:01:00
+290,LEN,Lennar Corp,109229,314:01:00
+293,F,Ford Motor Co.,84829,312:01:00
+294,IBM,International Business Machines Corp.,65463,312:01:00
+296,MSI,"Motorola Solutions, Inc.",90726,311:01:00
+297,BKR,Baker Hughes Co,69676,311:01:00
+301,COF,Capital One Financial Corp.,93157,307:01:00
+304,ENPH,"Enphase Energy, Inc.",64379,303:01:00
+305,GM,General Motors Co,91778,303:01:00
+307,ADM,Archer-Daniels-Midland Co,81467,300:01:00
+308,HPE,Hewlett Packard Enterprise Co,66816,300:01:00
+309,KLAC,KLA Corp.,88831,300:01:00
+310,WYNN,Wynn Resorts Ltd,54089,299:01:00
+313,SPG,Simon Property Group Inc.,52166,298:01:00
+315,MPWR,Monolithic Power Systems Inc.,49493,296:01:00
+316,MCK,Mckesson Corp.,68844,294:01:00
+317,GPC,Genuine Parts Co.,38903,293:01:00
+318,UBER,"Uber Technologies, Inc.",83077,292:01:00
+319,LKQ,LKQ Corp.,41841,291:01:00
+320,PFE,Pfizer Inc.,74008,291:01:00
+322,WBD,"Warner Bros. Discovery, Inc.",171163,290:01:00
+323,TECH,Bio-Techne Corp.,105484,290:01:00
+324,FDX,Fedex Corp.,45976,289:01:00
+326,UHS,Universal Health Services Inc.,50152,287:01:00
+329,HPQ,HP Inc.,67816,287:01:00
+333,GPN,Global Payments Inc.,56245,285:01:00
+334,BAX,Baxter International Inc.,48566,284:01:00
+336,DE,Deere & Co.,94247,284:01:00
+340,IR,Ingersoll Rand Inc.,55400,280:01:00
+341,CI,Cigna Group,75191,280:01:00
+343,AIG,"American International Group, Inc.",88585,278:01:00
+344,DHI,Horton D R Inc.,116043,277:01:00
+346,AMAT,Applied Materials Inc.,96883,277:01:00
+348,RJF,Raymond James Financial Inc.,126100,277:01:00
+350,PSA,Public Storage,31827,276:01:00
+351,MKC,Mccormick & CO Inc.,40141,275:01:00
+354,MMC,"Marsh & Mclennan Companies, Inc.",69634,274:01:00
+355,BA,Boeing Co.,119873,273:01:00
+356,MOH,"Molina Healthcare, Inc.",78620,273:01:00
+358,TXN,Texas Instruments Inc.,79577,272:01:00
+362,AON,AON PLC,88009,269:01:00
+363,CBRE,"Cbre Group, Inc.",70802,269:01:00
+364,CAH,Cardinal Health Inc.,69024,269:01:00
+366,CSCO,"Cisco Systems, Inc.",119165,267:01:00
+367,CSGP,"Costar Group, Inc.",109250,267:01:00
+369,MMM,3M Co.,61664,266:01:00
+371,EW,Edwards Lifesciences Corp.,50368,265:01:00
+376,CRL,"Charles River Laboratories International, Inc.",53621,263:01:00
+377,ROK,"Rockwell Automation, Inc.",64024,262:01:00
+379,TMO,Thermo Fisher Scientific Inc.,72762,261:01:00
+380,LH,Laboratory Corp of America Holdings,61201,261:01:00
+382,STT,State Street Corp.,51581,261:01:00
+385,USB,US Bancorp,88624,259:01:00
+388,FCX,Freeport-mcmoran Inc.,93911,256:01:00
+390,WTW,Willis Towers Watson,49706,255:01:00
+392,ALB,Albemarle Corp.,57103,253:01:00
+394,PPG,PPG Industries Inc.,49519,252:01:00
+395,MET,Metlife Inc.,81672,252:01:00
+399,MSFT,Microsoft Corp.,193770,250:01:00
+401,MSFT,Microsoft Corp.,193770,250:01:00
+402,ZBH,"Zimmer Biomet Holdings, Inc.",66850,250:01:00
+404,NWSA,News Corp.,77534,249:01:00
+406,NFLX,Netflix Inc.,200761,248:01:00
+407,SYK,Stryker Corp.,84028,247:01:00
+410,EXR,Extra Space Storage Inc.,49954,246:01:00
+412,AJG,Arthur J. Gallagher & Co.,63485,244:01:00
+416,AES,AES Corp.,52028,244:01:00
+418,TFX,Teleflex Inc.,37432,242:01:00
+419,MS,Morgan Stanley,0,241:01:00
+421,CRM,"Salesforce, Inc.",164985,240:01:00
+422,KKR,Kkr & Co. Inc.,202500,240:01:00
+423,MCHP,Microchip Technology Inc.,51229,240:01:00
+425,ALL,Allstate Corp.,68814,239:01:00
+427,MSCI,MSCI Inc.,57876,238:01:00
+428,AMD,Advanced Micro Devices Inc.,127642,238:01:00
+432,RMD,Resmed Inc.,59197,235:01:00
+435,CNC,Centene Corp.,79507,234:01:00
+438,BAC,Bank of America Corp.,124221,230:01:00
+440,FTV,Fortive Corp.,77370,230:01:00
+443,BAC,Bank of America Corp.,124221,230:01:00
+445,MDT,Medtronic PLC,67073,230:01:00
+446,UAL,"United Airlines Holdings, Inc.",81050,229:01:00
+447,ADBE,Adobe Inc.,196336,229:01:00
+449,HAL,Halliburton Co.,87310,228:01:00
+450,LRCX,Lam Research Corp.,81126,226:01:00
+454,PCAR,Paccar Inc.,93387,224:01:00
+456,EMN,Eastman Chemical Co.,78643,224:01:00
+457,QCOM,Qualcomm Inc.,105548,223:01:00
+458,FOXA,Fox Corp.,97491,223:01:00
+459,DECK,Deckers Outdoor Corp.,51320,222:01:00
+464,MAS,Masco Corp.,56636,220:01:00
+466,GD,General Dynamics Corp.,102785,220:01:00
+467,DOW,Dow Inc.,94600,220:01:00
+468,PGR,Progressive Corp.,71672,218:01:00
+469,NOC,Northrop Grumman Corp.,114197,217:01:00
+470,SWK,"Stanley Black & Decker, Inc.",64305,216:01:00
+476,AME,Ametek,68084,214:01:00
+477,NUE,Nucor Corp.,105755,213:01:00
+478,AMP,Ameriprise Financial Inc.,133296,213:01:00
+481,DD,"Dupont de Nemours, Inc.",93601,212:01:00
+483,NEM,Newmont Corp.,55338,212:01:00
+487,DLTR,"Dollar Tree, Inc.",15955,211:01:00
+488,ANSS,Ansys Inc.,117169,210:01:00
+489,PRU,Prudential Financial Inc.,91552,210:01:00
+492,BK,Bank of New York Mellon Corp.,80501,209:01:00
+500,EQIX,Equinix Inc.,115896,206:01:00
+501,ICE,"Intercontinental Exchange, Inc.",133506,206:01:00
+504,IPG,"Interpublic Group OF Companies, Inc.",70319,205:01:00
+506,PH,Parker Hannifin Corp.,80647,204:01:00
+507,ZTS,Zoetis Inc.,74848,204:01:00
+509,A,"Agilent Technologies, Inc.",78825,203:01:00
+512,SCHW,Schwab Charles Corp.,117672,203:01:00
+518,CMI,Cummins Inc.,63827,201:01:00
+519,GE,General Electric Co.,73038,201:01:00
+525,XOM,Exxon Mobil Corp.,185376,199:01:00
+531,ADP,Automatic Data Processing Inc.,64996,197:01:00
+535,DAY,Dayforce,69111,197:01:00
+536,HUBB,Hubbell Inc.,49030,197:01:00
+539,TXT,Textron Inc.,104326,196:01:00
+542,AIZ,"Assurant, Inc.",52667,196:01:00
+544,PFG,Principal Financial Group Inc.,78155,194:01:00
+546,TRV,"Travelers Companies, Inc.",117491,194:01:00
+547,EPAM,"Epam Systems, Inc.",39153,193:01:00
+549,T,AT&T Inc.,137176,193:01:00
+553,HUM,Humana Inc.,85122,192:01:00
+554,XYL,Xylem Inc.,56420,192:01:00
+556,HON,Honeywell International Inc.,80363,192:01:00
+568,EFX,Equifax Inc.,69056,189:01:00
+569,PTC,PTC Inc.,82574,189:01:00
+572,IDXX,Idexx Laboratories Inc.,61136,188:01:00
+573,IFF,International Flavors & Fragrances Inc.,57024,188:01:00
+574,LMT,Lockheed Martin Corp.,121901,187:01:00
+575,RTX,Raytheon Technologies Corp.,117236,187:01:00
+576,DGX,Quest Diagnostics Inc.,68163,186:01:00
+579,LHX,"L3Harris Technologies, Inc.",106472,186:01:00
+581,MLM,Martin Marietta Materials Inc.,99816,185:01:00
+584,DXCM,Dexcom Inc.,85574,184:01:00
+588,PKG,Packaging Corp of America,83406,183:01:00
+590,MA,Mastercard Inc.,140777,183:01:00
+591,MRK,"Merck & Co., Inc.",110827,183:01:00
+592,SRE,Sempra Energy,150500,182:01:00
+593,MNST,Monster Beverage Corp.,98177,182:01:00
+595,BR,"Broadridge Financial Solutions, Inc.",67457,182:01:00
+596,MTD,Mettler Toledo International Inc.,46144,182:01:00
+607,TRMB,Trimble Inc.,83971,178:01:00
+610,NRG,"NRG Energy, Inc.",74050,177:01:00
+613,AOS,Smith A O Corp.,49422,177:01:00
+614,ZBRA,Zebra Technologies Corp.,64037,177:01:00
+616,CRWD,"Crowdstrike Holdings, Inc.",206034,177:01:00
+617,MAA,Mid America Apartment Communities Inc.,45501,176:01:00
+618,ABT,Abbott Laboratories,132152,176:01:00
+619,NOW,"Servicenow, Inc.",214268,176:01:00
+620,ABT,Abbott Laboratories,132152,176:01:00
+623,FE,Firstenergy Corp.,151804,175:01:00
+629,GS,Goldman Sachs Group Inc.,153492,174:01:00
+631,PNR,Pentair PLC,57729,173:01:00
+634,CTVA,"Corteva, Inc.",77084,172:01:00
+648,ABBV,Abbvie Inc.,151991,169:01:00
+651,VZ,Verizon Communications Inc.,143498,168:01:00
+652,LLY,Eli Lilly & Co,157937,168:01:00
+654,DUK,Duke Energy Corp.,122570,168:01:00
+655,INTC,Intel Corp.,100100,168:01:00
+657,HII,"Huntington Ingalls Industries, Inc.",84115,168:01:00
+660,CPB,Campbell Soup Co.,70105,167:01:00
+663,CE,Celanese Corp.,77662,167:01:00
+664,BLK,Blackrock Inc.,162300,166:01:00
+669,HOLX,Hologic Inc.,94126,165:01:00
+677,SBAC,SBA Communications Corp.,69257,163:01:00
+678,FMC,FMC Corp.,59199,163:01:00
+680,SBAC,SBA Communications Corp.,69257,163:01:00
+683,HIG,"Hartford Financial Services Group, Inc.",101119,162:01:00
+685,CLX,Clorox CO,72682,160:01:00
+689,ORLY,O Reilly Automotive Inc.,35086,160:01:00
+694,GRMN,Garmin Ltd,41063,159:01:00
+695,EA,Electronic Arts Inc.,129851,159:01:00
+701,GWW,"W.W. Grainger, Inc.",65160,157:01:00
+702,RSG,"Republic Services, Inc.",75422,157:01:00
+705,NDAQ,"Nasdaq, Inc.",117468,157:01:00
+707,SNA,Snap-on Inc.,67206,157:01:00
+709,LYB,Lyondellbasell Industries,106365,156:01:00
+712,ODFL,"Old Dominion Freight Line, Inc.",78853,156:01:00
+718,SLB,Schlumberger Limited/nv,118141,154:01:00
+721,EQR,Equity Residential,74135,153:01:00
+722,SJM,J M Smucker Co,74353,153:01:00
+726,TAP,Molson Coors Beverage Co.,80339,152:01:00
+727,V,Visa Inc.,149782,151:01:00
+728,WM,Waste Management Inc.,97046,151:01:00
+730,CDNS,Cadence Design Systems Inc.,114804,151:01:00
+732,CVX,Chevron Corp.,175673,151:01:00
+733,KHC,Kraft Heinz Co,75128,151:01:00
+734,XEL,Xcel Energy Inc.,140980,151:01:00
+738,CME,Cme Group Inc.,157285,149:01:00
+739,CFG,Citizens Financial Group Inc.,74287,149:01:00
+741,GDDY,Godaddy Inc.,106590,149:01:00
+743,CME,Cme Group Inc.,157285,149:01:00
+744,INTU,Intuit Inc.,184705,148:01:00
+745,IP,International Paper CO,87004,148:01:00
+747,WRB,Berkley W R Corp.,113622,148:01:00
+753,WELL,Welltower Inc.,117700,146:01:00
+758,SYY,Sysco Corp.,98704,145:01:00
+759,EXPD,Expeditors International OF Washington Inc.,51321,145:01:00
+760,EXPD,Expeditors International OF Washington Inc.,51321,145:01:00
+762,DFS,Discover Financial Services,59905,145:01:00
+764,WST,West Pharmaceutical Services Inc.,65395,144:01:00
+766,NTRS,Northern Trust Corp.,70565,144:01:00
+767,BRO,"Brown & Brown, Inc.",68672,143:01:00
+768,SO,Southern Co.,164300,143:01:00
+771,HAS,"Hasbro, Inc.",105855,143:01:00
+776,FITB,Fifth Third Bancorp,66030,142:01:00
+778,ADSK,"Autodesk, Inc.",146199,141:01:00
+783,CNP,Centerpoint Energy Inc.,115722,140:01:00
+784,SNPS,Synopsys Inc.,90759,140:01:00
+786,ALLE,Allegion PLC,64092,140:01:00
+788,WMB,"Williams Companies, Inc.",126008,139:01:00
+789,RF,Regions Financial Corp.,66724,139:01:00
+792,UDR,"UDR, Inc.",85212,138:01:00
+795,INVH,Invitation Homes Inc.,76008,137:01:00
+798,MPC,Marathon Petroleum Corp.,176205,137:01:00
+799,HBAN,Huntington Bancshares Inc.,74173,137:01:00
+800,HBAN,Huntington Bancshares Inc.,74173,137:01:00
+802,AMGN,Amgen Inc.,166322,136:01:00
+806,VMC,Vulcan Materials Co.,99874,136:01:00
+809,EBAY,Ebay Inc.,160007,135:01:00
+810,PWR,"Quanta Services, Inc.",108385,135:01:00
+814,ES,Eversource Energy,140991,134:01:00
+833,HRL,Hormel Foods Corp.,52099,130:01:00
+835,FTNT,"Fortinet, Inc.",124446,130:01:00
+836,BMY,Bristol Myers Squibb Co.,151172,130:01:00
+837,WY,Weyerhaeuser Co.,100256,130:01:00
+841,KDP,Keurig Dr Pepper Inc.,59669,128:01:00
+842,NVDA,Nvidia Corp.,266939,128:01:00
+846,TDY,Teledyne Technologies Inc.,66824,128:01:00
+849,KEY,Keycorp,80737,127:01:00
+851,URI,"United Rentals, Inc.",86568,127:01:00
+853,HWM,Howmet Aerospace Inc.,58372,126:01:00
+857,CHD,Church & Dwight CO Inc.,88482,126:01:00
+859,MCO,Moodys Corp.,115386,125:01:00
+861,MCO,Moodys Corp.,115386,125:01:00
+864,KEYS,"Keysight Technologies, Inc.",85570,125:01:00
+871,PSX,Phillips 66,156695,124:01:00
+874,KIM,Kimco Realty Corp.,112894,123:01:00
+875,JKHY,Henry Jack & Associates Inc.,84531,123:01:00
+876,JBHT,Hunt J B Transport Services Inc.,66919,123:01:00
+879,MO,"Altria Group, Inc.",151447,122:01:00
+880,MO,"Altria Group, Inc.",151447,122:01:00
+887,CTAS,Cintas Corp.,62513,121:01:00
+888,PHM,Pultegroup Inc.,103517,121:01:00
+900,CCI,Crown Castle Inc.,123665,119:01:00
+912,VTR,"Ventas, Inc.",114544,118:01:00
+915,BLDR,"Builders Firstsource, Inc.",68736,118:01:00
+917,VRSK,"Verisk Analytics, Inc.",87582,118:01:00
+918,GL,Globe Life Inc.,61022,118:01:00
+919,POOL,Pool Corp.,51621,118:01:00
+921,VTR,"Ventas, Inc.",114544,118:01:00
+923,POOL,Pool Corp.,51621,118:01:00
+926,AKAM,Akamai Technologies Inc.,114429,117:01:00
+929,AVB,Avalonbay Communities Inc.,80764,117:01:00
+933,MTCH,"Match Group, Inc.",139011,116:01:00
+946,PODD,Insulet Corp.,107199,115:01:00
+955,WAT,Waters Corp.,76668,114:01:00
+958,TFC,Truist Financial Corp.,109424,114:01:00
+959,STE,Steris PLC,68915,113:01:00
+960,BEN,Franklin Resources Inc.,138378,113:01:00
+961,UNP,Union Pacific Corp.,137770,113:01:00
+963,STE,Steris PLC,68915,113:01:00
+978,MTB,M&T Bank Corp.,84682,111:01:00
+987,NEE,Nextera Energy Inc.,186960,110:01:00
+988,GILD,"Gilead Sciences, Inc.",205866,110:01:00
+990,AMCR,Amcor PLC,66941,109:01:00
+994,NSC,Norfolk Southern Corp.,123776,109:01:00
+1001,IVZ,Invesco Ltd.,111480,108:01:00
+1002,DLR,"Digital Realty Trust, Inc.",114016,108:01:00
+1011,TRGP,Targa Resources Corp.,133130,107:01:00
+1021,L,Loews Corp.,65779,105:01:00
+1028,CPT,Camden Property Trust,66122,105:01:00
+1030,FANG,"Diamondback Energy, Inc.",167164,105:01:00
+1034,J,Jacobs Solutions Inc.,91465,104:01:00
+1042,TER,"Teradyne, Inc.",98546,103:01:00
+1047,MHK,Mohawk Industries Inc.,42888,103:01:00
+1063,GNRC,Generac Holdings Inc.,70609,101:01:00
+1076,DVA,Davita Inc.,68007,99:01:00
+1078,STLD,Steel Dynamics Inc.,119460,99:01:00
+1084,O,Realty Income Corp.,134421,98:01:00
+1097,BXP,Boston Properties Inc.,134611,96:01:00
+1107,PCG,PG&E Corp.,179696,95:01:00
+1118,ERIE,Erie Indemnity Co.,84410,93:01:00
+1119,KMI,"Kinder Morgan, Inc.",132724,93:01:00
+1120,OXY,Occidental Petroleum Corp.,190610,93:01:00
+1122,CTRA,Coterra Energy Inc.,157111,93:01:00
+1123,KMI,"Kinder Morgan, Inc.",132724,93:01:00
+1126,ERIE,Erie Indemnity Co.,84410,93:01:00
+1132,CF,"CF Industries Holdings, Inc.",140469,92:01:00
+1142,LDOS,"Leidos Holdings, Inc.",106046,91:01:00
+1168,AEP,American Electric Power CO Inc.,121286,88:01:00
+1171,ATO,Atmos Energy Corp.,91592,88:01:00
+1189,ACGL,Arch Capital Group Ltd.,147294,86:01:00
+1193,CDW,CDW Corp.,105264,86:01:00
+1203,DVN,Devon Energy Corp.,175300,85:01:00
+1212,EXC,Exelon Corp.,146180,84:01:00
+1218,VRTX,Vertex Pharmaceuticals Inc / MA,247549,83:01:00
+1226,VRTX,Vertex Pharmaceuticals Inc / MA,247549,83:01:00
+1230,PEG,Public Service Enterprise Group Inc.,143410,82:01:00
+1231,ANET,"Arista Networks, Inc.",189124,82:01:00
+1235,NDSN,Nordson Corp.,85402,82:01:00
+1238,TROW,Price T Rowe Group Inc.,157096,82:01:00
+1243,EIX,Edison International,182831,81:01:00
+1245,MRNA,"Moderna, Inc.",209627,81:01:00
+1249,AWK,"American Water Works Company, Inc.",96531,80:01:00
+1271,ARE,"Alexandria Real Estate Equities, Inc.",197536,78:01:00
+1275,EQT,EQT Corp.,135105,78:01:00
+1278,HES,Hess Corp.,216197,78:01:00
+1289,REG,Regency Centers Corp.,119778,77:01:00
+1295,ETR,Entergy Corp.,135842,76:01:00
+1296,FFIV,"F5, Inc.",142691,76:01:00
+1300,FFIV,"F5, Inc.",142691,76:01:00
+1322,NTAP,"Netapp, Inc.",154521,74:01:00
+1325,WEC,"Wec Energy Group, Inc.",131029,73:01:00
+1327,CEG,Constellation Energy Corp.,143428,73:01:00
+1332,EOG,Eog Resources Inc.,198556,73:01:00
+1339,ED,Consolidated Edison Inc.,224220,72:01:00
+1344,DTE,DTE Energy Co.,144402,71:01:00
+1356,VST,Vistra Corp.,149935,70:01:00
+1360,HST,"Host Hotels & Resorts, Inc.",251653,70:01:00
+1363,VST,Vistra Corp.,149935,70:01:00
+1366,CINF,Cincinnati Financial Corp.,120704,69:01:00
+1370,PPL,PPL Corp.,173259,69:01:00
+1375,AEE,Ameren Corp.,133250,68:01:00
+1393,FAST,Fastenal Co.,46393,67:01:00
+1405,FRT,Federal Realty Investment Trust,135358,66:01:00
+1434,META,"Meta Platforms, Inc.",379050,64:01:00
+1460,INCY,Incyte Corp.,267066,62:01:00
+1470,PNW,Pinnacle West Capital Corp.,153935,61:01:00
+1472,ORCL,Oracle Corp.,85991,61:01:00
+1512,CBOE,"Cboe Global Markets, Inc.",179120,58:01:00
+1528,CMS,CMS Energy Corp.,170276,57:01:00
+1540,VRSN,Verisign Inc.,217196,56:01:00
+1541,D,"Dominion Energy, Inc.",112683,56:01:00
+1547,LNT,Alliant Energy Corp.,173346,56:01:00
+1580,CPAY,Corpay,50798,53:01:00
+1583,EVRG,"Evergy, Inc.",105724,53:01:00
+1590,NI,Nisource Inc.,174408,53:01:00
+1638,MKTX,Marketaxess Holdings Inc.,167000,50:01:00
+1652,REGN,"Regeneron Pharmaceuticals, Inc.",165843,49:01:00
+1724,CPRT,Copart Inc.,45224,44:01:00
+1729,DOC,Physicians Realty Trust,109629,44:01:00
+1815,PAYC,"Paycom Software, Inc.",79173,39:01:00
+1841,DELL,Dell Technologies Inc.,74729,37:01:00
+1842,ESS,"Essex Property Trust, Inc.",93662,37:01:00
+1952,VICI,Vici Properties Inc.,376391,30:01:00
+1961,VICI,Vici Properties Inc.,376391,30:01:00
+1972,GOOG,Alphabet Inc.,304930,29:01:00
+2093,NVR,NVR Inc.,75700,23:01
+2102,NVR,NVR Inc.,75700,23:01
+2193,PLTR,Palantir Technologies Inc.,191630,18:01
+2295,EXPE,"Expedia Group, Inc.",105372,10:01
+2301,EXPE,"Expedia Group, Inc.",105372,10:01
+2356,BRK.B,Berkshire Hathaway Inc.,76726,5:01
+2384,TTWO,Take Two Interactive Software Inc.,75276,2:01
+2386,ABNB,"Airbnb, Inc.",243757,1:01

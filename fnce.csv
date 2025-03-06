@@ -1,0 +1,65 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+JPM,J.P. Morgan Chase & Co.,James Dimon,2023,739990503424.0,35093780,95988,366:01:00,high,Financial Services
+MS,Morgan Stanley,James Gorman,2023,214687793152.0,32951606,0,241:01:00,high,Financial Services
+AXP,American Express Co.,S.J. Squeri,2023,211434012672.0,35676905,52680,677:01:00,high,Financial Services
+BX,Blackstone Inc.,Stephen Schwarzman,2023,196803772416.0,119784375,245000,489:01:00,high,Financial Services
+BLK,Blackrock Inc.,Laurence Fink,2023,151803281408.0,26939474,162300,166:01:00,high,Financial Services
+C,Citigroup Inc.,Jane Fraser,2023,150664167424.0,25458313,70731,360:01:00,high,Financial Services
+SCHW,Schwab Charles Corp.,Walter Bettinger II,2023,144233218048.0,23871744,117672,203:01:00,high,Financial Services
+KKR,Kkr & Co. Inc.,Joseph Bae,2023,125122584576.0,49959449,202500,240:01:00,high,Financial Services
+CB,Chubb Ltd.,Evan Greenberg,2023,114392981504.0,27661317,61188,452:01:00,high,Financial Services
+ICE,"Intercontinental Exchange, Inc.",Jeffrey Sprecher,2023,99531890688.0,27550872,133506,206:01:00,high,Financial Services
+AON,AON PLC,Gregory Case,2023,88370323456.0,23661834,88009,269:01:00,high,Financial Services
+COF,Capital One Financial Corp.,Richard Fairbank,2023,76475334656.0,28589573,93157,307:01:00,high,Financial Services
+USB,US Bancorp,Andrew Cecere,2023,73158844416.0,22916957,88624,259:01:00,high,Financial Services
+PYPL,"Paypal Holdings, Inc.",Alex Chriss,2023,70285647872.0,41916755,94167,375:01:00,high,Financial Services
+AFL,AFLAC Inc.,Daniel Amos,2023,59834990592.0,20703253,63898,324:01:00,high,Financial Services
+TRV,"Travelers Companies, Inc.",Alan Schnitzer,2023,58606661632.0,22730072,117491,194:01:00,high,Financial Services
+AMP,Ameriprise Financial Inc.,James Cracchiolo,2023,53886353408.0,28378031,133296,213:01:00,high,Financial Services
+AIG,"American International Group, Inc.",Peter Zaffino,2023,49211039744.0,24617936,88585,278:01:00,high,Financial Services
+NDAQ,"Nasdaq, Inc.",Adena Friedman,2023,47610503168.0,18498752,117468,157:01:00,high,Financial Services
+PRU,Prudential Financial Inc.,Charles F. Lowrey,2023,40745398272.0,19213328,91552,210:01:00,high,Financial Services
+RJF,Raymond James Financial Inc.,Paul Reilly,2023,31693428736.0,34912956,126100,277:01:00,high,Financial Services
+WRB,Berkley W R Corp.,Robert Berkley,2023,23921575936.0,16813566,113622,148:01:00,high,Financial Services
+SYF,Synchrony Financial,Brian Doubles,2023,23589351424.0,19175684,57653,333:01:00,high,Financial Services
+PFG,Principal Financial Group Inc.,Daniel Houston,2023,20084842496.0,15118828,78155,194:01:00,high,Financial Services
+BEN,Franklin Resources Inc.,Jennifer Johnson,2023,10639309824.0,15694227,138378,113:01:00,high,Financial Services
+V,Visa Inc.,Ryan McInerney,2023,699671248896.0,22604568,149782,151:01:00,mid,Financial Services
+MA,Mastercard Inc.,Michael Miebach,2023,525426458624.0,25746498,140777,183:01:00,mid,Financial Services
+BAC,Bank of America Corp.,Brian Moynihan,2023,350575755264.0,28571192,124221,230:01:00,mid,Financial Services
+WFC,Wells Fargo & Company,Charles Scharf,2023,257531035648.0,25966198,80012,325:01:00,mid,Financial Services
+GS,Goldman Sachs Group Inc.,David Solomon,2023,194178744320.0,26670817,153492,174:01:00,mid,Financial Services
+MMC,"Marsh & Mclennan Companies, Inc.",John Doyle,2023,116810596352.0,19054956,69634,274:01:00,mid,Financial Services
+CME,Cme Group Inc.,Terrence Duffy,2023,91449065472.0,23468000,157285,149:01:00,mid,Financial Services
+BK,Bank of New York Mellon Corp.,Robin Vince,2023,63716753408.0,16801167,80501,209:01:00,mid,Financial Services
+MET,Metlife Inc.,Michel Khalaf,2023,58708230144.0,20526009,81672,252:01:00,mid,Financial Services
+ALL,Allstate Corp.,Thomas Wilson,2023,52779925504.0,16487957,68814,239:01:00,mid,Financial Services
+ACGL,Arch Capital Group Ltd.,Marc Grandisson,2023,34971324416.0,13102252,147294,86:01:00,mid,Financial Services
+HIG,"Hartford Financial Services Group, Inc.",Christopher Swift,2023,33755574272.0,16408250,101119,162:01:00,mid,Financial Services
+STT,State Street Corp.,Ronald O’Hanley,2023,28624779264.0,13449164,51581,261:01:00,mid,Financial Services
+HBAN,Huntington Bancshares Inc.,Stephen Steinour,2023,23943426048.0,10179479,74173,137:01:00,mid,Financial Services
+TROW,Price T Rowe Group Inc.,Robert Sharps,2023,23536867328.0,12841931,157096,82:01:00,mid,Financial Services
+NTRS,Northern Trust Corp.,Michael O’Grady,2023,21569832960.0,10174760,70565,144:01:00,mid,Financial Services
+RF,Regions Financial Corp.,John Turner,2023,21468575744.0,9217718,66724,139:01:00,mid,Financial Services
+CFG,Citizens Financial Group Inc.,Bruce Van Saun,2023,20007759872.0,11075271,74287,149:01:00,mid,Financial Services
+KEY,Keycorp,Christopher Gorman,2023,19140677632.0,10268718,80737,127:01:00,mid,Financial Services
+IVZ,Invesco Ltd.,Andrew Schlossberg,2023,7783798272.0,11864931,111480,108:01:00,mid,Financial Services
+PGR,Progressive Corp.,Susan Patricia Griffith,2023,165308399616.0,15636618,71672,218:01:00,low,Financial Services
+SPGI,S&P Global Inc.,Douglas Peterson,2023,164285169664.0,19506412,43834,445:01:00,low,Financial Services
+MCO,Moodys Corp.,Robert Fauber,2023,90864910336.0,14387659,115386,125:01:00,low,Financial Services
+AJG,Arthur J. Gallagher & Co.,Pat Gallagher,2023,86022373376.0,15496222,63485,244:01:00,low,Financial Services
+TFC,Truist Financial Corp.,William Rogers,2023,60502970368.0,12037646,109424,114:01:00,low,Financial Services
+DFS,Discover Financial Services,John B. Owen,2023,49110585344.0,2188651,59905,145:01:00,low,Financial Services
+MSCI,MSCI Inc.,Henry Fernandez,2023,45854281728.0,13793145,57876,238:01:00,low,Financial Services
+BRO,"Brown & Brown, Inc.",Powell Brown,2023,33894379520.0,9786745,68672,143:01:00,low,Financial Services
+WTW,Willis Towers Watson,Carl Hess,2023,33860591616.0,12668832,49706,255:01:00,low,Financial Services
+MTB,M&T Bank Corp.,René F. Jones,2023,31505922048.0,9385557,84682,111:01:00,low,Financial Services
+FITB,Fifth Third Bancorp,Timothy Spence,2023,28934414336.0,9385726,66030,142:01:00,low,Financial Services
+CINF,Cincinnati Financial Corp.,Steven J. Johnston,2023,23135811584.0,8381511,120704,69:01:00,low,Financial Services
+ERIE,Erie Indemnity Co.,Timothy NeCastro,2023,22383738880.0,7824320,84410,93:01:00,low,Financial Services
+CBOE,"Cboe Global Markets, Inc.",Fredric J. Tomczyk,2023,22071181312.0,8366510,179120,58:01:00,low,Financial Services
+L,Loews Corp.,James Tisch,2023,18283988992.0,6918337,65779,105:01:00,low,Financial Services
+FDS,Factset Research Systems Inc.,Philip Snow,2023,17559971840.0,6862015,21301,322:01:00,low,Financial Services
+GL,Globe Life Inc.,Frank Svoboda,2023,10697124864.0,7206071,61022,118:01:00,low,Financial Services
+AIZ,"Assurant, Inc.",Keith Demmings,2023,10559127552.0,10331024,52667,196:01:00,low,Financial Services
+MKTX,Marketaxess Holdings Inc.,Christopher Concannon,2023,7266871808.0,8293086,167000,50:01:00,low,Financial Services

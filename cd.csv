@@ -1,0 +1,36 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+PEP,Pepsico Inc.,Ramon Laguarta,2023,210484117504.0,33906212,52356,648:01:00,high,Consumer Defensive
+K,Kellogg Co.,Steve Cahillane,2023,28618407936.0,17038641,52936,322:01:00,high,Consumer Defensive
+EL,Estee Lauder Companies Inc.,Fabrizio Freda,2023,25867108352.0,21811244,33819,645:01:00,high,Consumer Defensive
+ADM,Archer-Daniels-Midland Co,Juan Ricardo Luciano,2023,22642171904.0,24414668,81467,300:01:00,high,Consumer Defensive
+CAG,Conagra Brands Inc.,Sean Connolly,2023,12190752768.0,18720100,59177,316:01:00,high,Consumer Defensive
+BG,Bunge Global SA,Gregory Heckman,2023,9939086336.0,17587870,85513,655:01:00,high,Consumer Defensive
+LW,"Lamb Weston Holdings, Inc.",Thomas Werner,2023,7398788096.0,20352276,59285,343:01:00,high,Consumer Defensive
+WMT,Walmart Inc.,Doug McMillon,2024,792172625920.0,26968924,27642,976:01:00,mid,Consumer Defensive
+KO,Coca Cola Co.,James Quincey,2023,306274205696.0,24742908,13752,"1,799:1",mid,Consumer Defensive
+PM,Philip Morris International Inc.,Jacek Olczak,2023,241438670848.0,25480514,60974,369:01:00,mid,Consumer Defensive
+MDLZ,"Mondelez International, Inc.",Van de Put Dirk,2023,83083436032.0,21018175,33093,635:01:00,mid,Consumer Defensive
+CL,Colgate Palmolive Co.,Noel Wallace,2023,73987735552.0,17121584,50885,336:01:00,mid,Consumer Defensive
+TGT,Target Corp.,Brian Cornell,2023,56928256000.0,19203353,26696,719:01:00,mid,Consumer Defensive
+MNST,Monster Beverage Corp.,Rodney Sacks,2023,53148221440.0,17875482,98177,182:01:00,mid,Consumer Defensive
+KMB,Kimberly Clark Corp.,Michael Hsu,2023,47102582784.0,16528052,51084,324:01:00,mid,Consumer Defensive
+KR,Kroger Co.,Rodney McMullen,2023,46904139776.0,15710572,31302,502:01:00,mid,Consumer Defensive
+SYY,Sysco Corp.,Kevin Hourican,2023,36956434432.0,14341020,98704,145:01:00,mid,Consumer Defensive
+HSY,Hershey Co.,Ms. Buck,2023,34958405632.0,15654209,43527,360:01:00,mid,Consumer Defensive
+GIS,General Mills Inc.,Jeffrey Harmening,2023,33415620608.0,16385646,51906,316:01:00,mid,Consumer Defensive
+STZ,"Constellation Brands, Inc.",William Newlands,2023,31722678272.0,16068340,34821,461:01:00,mid,Consumer Defensive
+CHD,Church & Dwight CO Inc.,Matthew Farrell,2023,27351863296.0,11182166,88482,126:01:00,mid,Consumer Defensive
+TSN,"Tyson Foods, Inc.",Donnie King,2023,21848938496.0,13180119,41949,314:01:00,mid,Consumer Defensive
+CLX,Clorox CO,Linda Rendle,2023,19265683456.0,11649650,72682,160:01:00,mid,Consumer Defensive
+TAP,Molson Coors Beverage Co.,Gavin D.K. Hattersley,2023,12414411776.0,12210558,80339,152:01:00,mid,Consumer Defensive
+CPB,Campbell Soup Co.,Mark Clouse,2023,11942246400.0,11699822,70105,167:01:00,mid,Consumer Defensive
+SJM,J M Smucker Co,Mark Smucker,2023,11762160640.0,11348537,74353,153:01:00,mid,Consumer Defensive
+COST,Costco Wholesale,Craig Jelinek,2023,465476943872.0,16870623,50202,336:01:00,low,Consumer Defensive
+PG,Procter & Gamble Co,Jon Moeller,2023,407628709888.0,21715625,64024,339:01:00,low,Consumer Defensive
+MO,"Altria Group, Inc.",William Gifford,2023,94423359488.0,18528628,151447,122:01:00,low,Consumer Defensive
+KDP,Keurig Dr Pepper Inc.,Robert Gamgort,2023,45478260736.0,7620095,59669,128:01:00,low,Consumer Defensive
+KHC,Kraft Heinz Co,Miguel Patricio,2023,36698140672.0,11359250,75128,151:01:00,low,Consumer Defensive
+MKC,Mccormick & CO Inc.,Brendan Foley,2023,22152697856.0,5213172,40141,275:01:00,low,Consumer Defensive
+DG,Dollar General Corp.,Todd Vasos,2023,16314110976.0,8980117,18657,521:01:00,low,Consumer Defensive
+HRL,Hormel Foods Corp.,James Snee,2023,15718241280.0,6785979,52099,130:01:00,low,Consumer Defensive
+DLTR,"Dollar Tree, Inc.",Richard Dreiling,2023,15667742720.0,3360766,15955,211:01:00,low,Consumer Defensive

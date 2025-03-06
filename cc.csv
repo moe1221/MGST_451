@@ -1,0 +1,50 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+BKNG,Booking Holdings Inc.,Glenn Fogel,2023,164601364480.0,46720734,92967,503:01:00,high,Consumer Cyclical
+NKE,"Nike, Inc.",John Donahoe II,2023,117487296512.0,32789885,33646,975:01:00,high,Consumer Cyclical
+MAR,Marriott International Inc.,Anthony Capuano,2023,77318668288.0,22664045,44805,506:01:00,high,Consumer Cyclical
+CMG,Chipotle Mexican Grill Inc.,Brian Niccol,2023,73147703296.0,22473427,16595,"1,354:1",high,Consumer Cyclical
+HLT,Hilton Worldwide Holdings Inc.,Christopher Nassetta,2023,63748575232.0,26556464,48435,549:01:00,high,Consumer Cyclical
+GM,General Motors Co,Mary Barra,2023,48884449280.0,27847405,91778,303:01:00,high,Consumer Cyclical
+YUM,Yum Brands Inc.,David Gibbs,2023,43643179008.0,21238955,17628,"1,205:1",high,Consumer Cyclical
+F,Ford Motor Co.,James Farley,2023,37850947584.0,26470033,84829,312:01:00,high,Consumer Cyclical
+LVS,Las Vegas Sands Corp.,Robert Goldstein,2023,32009451520.0,21937818,41185,533:01:00,high,Consumer Cyclical
+LEN,Lennar Corp,Stuart Miller,2023,31613423616.0,34284913,109229,314:01:00,high,Consumer Cyclical
+EBAY,Ebay Inc.,Jamie Iannone,2023,31010459648.0,21560669,160007,135:01:00,high,Consumer Cyclical
+BBY,Best Buy CO Inc.,Corie Barry,2024,19222398976.0,14443881,32656,442:01:00,high,Consumer Cyclical
+PKG,Packaging Corp of America,Mark Kowlzan,2023,19136524288.0,15228190,83406,183:01:00,high,Consumer Cyclical
+TPR,"Tapestry, Inc.",Joanne Crevoiserat Interim,2023,17683222528.0,14489503,29535,491:01:00,high,Consumer Cyclical
+ULTA,"Ulta Beauty, Inc.",David Kimbell,2023,16989028352.0,12663880,13193,960:01:00,high,Consumer Cyclical
+RL,Ralph Lauren Corp.,Patrice Louvet,2023,16746745856.0,14471356,31187,464:01:00,high,Consumer Cyclical
+APTV,Aptiv PLC,Kevin Clark,2023,14941523968.0,18000136,11647,"1,545:1",high,Consumer Cyclical
+MGM,Mgm Resorts International,William Hornbuckle,2023,9925752832.0,17003794,45502,374:01:00,high,Consumer Cyclical
+WYNN,Wynn Resorts Ltd,Craig Billings,2023,9503736832.0,16152634,54089,299:01:00,high,Consumer Cyclical
+HAS,"Hasbro, Inc.",Chris Cocks,2023,9082909696.0,15110869,105855,143:01:00,high,Consumer Cyclical
+CZR,"Caesars Entertainment, Inc.",Thomas Reeg,2023,7043072000.0,18610359,33250,560:01:00,high,Consumer Cyclical
+BWA,Borgwarner Inc.,Frédéric Lissalde,2023,6510222848.0,19308195,39380,490:01:00,high,Consumer Cyclical
+TJX,Tjx Companies Inc.,Ernie Herrman,2024,140250202112.0,22222769,14857,"1,496:1",mid,Consumer Cyclical
+RCL,Royal Caribbean Cruises Ltd.,Jason Liberty,2023,66232647680.0,17216276,18073,953:01:00,mid,Consumer Cyclical
+AZO,Autozone Inc.,William Rhodes,2023,58620391424.0,18796822,26669,705:01:00,mid,Consumer Cyclical
+ROST,"Ross Stores, Inc.",Barbara Rentler,2023,46295638016.0,18094944,8618,"2,100:1",mid,Consumer Cyclical
+LULU,Lululemon Athletica Inc.,Calvin McDonald,2023,44525445120.0,16494777,19518,845:01:00,mid,Consumer Cyclical
+DHI,Horton D R Inc.,Paul J. Romanowski,2023,40684322816.0,14189342,116043,277:01:00,mid,Consumer Cyclical
+CCL,Carnival Corp.,Josh Weinstein,2023,32350730240.0,13808603,16789,822:01:00,mid,Consumer Cyclical
+IP,International Paper CO,Mark Sutton,2023,29647200256.0,12845526,87004,148:01:00,mid,Consumer Cyclical
+DECK,Deckers Outdoor Corp.,Dave Powers,2023,21151223808.0,11391476,51320,222:01:00,mid,Consumer Cyclical
+PHM,Pultegroup Inc.,Ryan Marshall,2023,20909862912.0,12530908,103517,121:01:00,mid,Consumer Cyclical
+GPC,Genuine Parts Co.,Paul Donahue,2023,17331095552.0,11398274,38903,293:01:00,mid,Consumer Cyclical
+DPZ,Dominos Pizza Inc.,Russell Weiner,2023,16795437056.0,10135862,31481,322:01:00,mid,Consumer Cyclical
+LKQ,LKQ Corp.,Dominick Zarcone,2023,10933749760.0,12189021,41841,291:01:00,mid,Consumer Cyclical
+HD,"Home Depot, Inc.",Edward Decker,2023,393967763456.0,14419252,35131,410:01:00,low,Consumer Cyclical
+MCD,Mcdonalds Corp.,Christopher Kempczinski,2023,220289744896.0,19155001,15802,"1,212:1",low,Consumer Cyclical
+LOW,Lowes Companies Inc.,Marvin Ellison,2023,139238391808.0,18162272,32626,557:01:00,low,Consumer Cyclical
+SBUX,Starbucks Corp.,Laxman Narasimhan,2023,131552051200.0,14604531,14209,"1,028:1",low,Consumer Cyclical
+ABNB,"Airbnb, Inc.",Brian Chesky,2023,86285484032.0,295125,243757,1:01,low,Consumer Cyclical
+ORLY,O Reilly Automotive Inc.,Greg Johnson,2023,78822490112.0,5603352,35086,160:01:00,low,Consumer Cyclical
+TSCO,Tractor Supply Co,Harry Lawton,2023,29421180928.0,11374666,22152,513:01:00,low,Consumer Cyclical
+EXPE,"Expedia Group, Inc.",Peter Kern,2023,25508532224.0,1009900,105372,10:01,low,Consumer Cyclical
+DRI,Darden Restaurants Inc.,Ricardo Cardenas,2023,23483287552.0,8500029,22248,382:01:00,low,Consumer Cyclical
+NVR,NVR Inc.,Eugene Bredow,2023,20894441472.0,1763200,75700,23:01,low,Consumer Cyclical
+AVY,Avery Dennison Corp.,Deon Stander,2023,14848615424.0,6070962,15679,403:01:00,low,Consumer Cyclical
+AMCR,Amcor PLC,Ron Delia,2023,14626840576.0,7305995,66941,109:01:00,low,Consumer Cyclical
+NCLH,Norwegian Cruise Line Holdings Ltd.,Harry Sommer,2023,9993640960.0,8864592,23330,380:01:00,low,Consumer Cyclical
+MHK,Mohawk Industries Inc.,Jeffrey Lorberbaum,2023,7359628800.0,4428417,42888,103:01:00,low,Consumer Cyclical

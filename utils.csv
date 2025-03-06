@@ -1,0 +1,32 @@
+Ticker,Company,CEO,Year,Market Cap,CEO Pay,Median Worker Pay,Pay Ratio,Rank,Industry
+SRE,Sempra Energy,Jeffrey Martin,2023,46624780288.0,27421881,150500,182:01:00,high,Utilities
+XEL,Xcel Energy Inc.,Bob Frenzel,2023,41402847232.0,21357168,140980,151:01:00,high,Utilities
+PCG,PG&E Corp.,Patricia Poppe,2023,35843096576.0,16994840,179696,95:01:00,high,Utilities
+ES,Eversource Energy,Joseph Nolan,2023,23111120896.0,18885577,140991,134:01:00,high,Utilities
+CNP,Centerpoint Energy Inc.,David Lesar,2023,22406445056.0,16204475,115722,140:01:00,high,Utilities
+FE,Firstenergy Corp.,Brian Tierney,2023,22343809024.0,26452616,151804,175:01:00,high,Utilities
+EIX,Edison International,Pedro Pizarro,2023,21076447232.0,14881111,182831,81:01:00,high,Utilities
+NEE,Nextera Energy Inc.,John Ketchum,2023,144341794816.0,20591124,186960,110:01:00,mid,Utilities
+SO,Southern Co.,Christopher Womack,2023,98481676288.0,23520387,164300,143:01:00,mid,Utilities
+DUK,Duke Energy Corp.,Lynn Good,2023,91172241408.0,20559875,122570,168:01:00,mid,Utilities
+ED,Consolidated Edison Inc.,Timothy P. Cawley,2023,35198201856.0,16176871,224220,72:01:00,mid,Utilities
+DTE,DTE Energy Co.,Gerardo Norcia,2023,27708254208.0,10278098,144402,71:01:00,mid,Utilities
+PPL,PPL Corp.,Vincent Sorgi,2023,25995331584.0,11969556,173259,69:01:00,mid,Utilities
+CMS,CMS Energy Corp.,Garrick Rochow,2023,21826975744.0,9637210,170276,57:01:00,mid,Utilities
+NRG,"NRG Energy, Inc.",Mauricio Gutierrez,2023,20994428928.0,13128160,74050,177:01:00,mid,Utilities
+LNT,Alliant Energy Corp.,John Larsen,2023,16564334592.0,9709782,173346,56:01:00,mid,Utilities
+AES,AES Corp.,Andrés Gluski,2023,8240803328.0,12716194,52028,244:01:00,mid,Utilities
+CEG,Constellation Energy Corp.,Joseph Dominguez,2023,78382252032.0,15185385,143428,73:01:00,low,Utilities
+AEP,American Electric Power CO Inc.,Julia A. Sloat,2023,56547028992.0,10633745,121286,88:01:00,low,Utilities
+D,"Dominion Energy, Inc.",Robert Blue,2023,48243068928.0,6278835,112683,56:01:00,low,Utilities
+VST,Vistra Corp.,James Burke,2023,45474607104.0,10453376,149935,70:01:00,low,Utilities
+EXC,Exelon Corp.,Calvin Butler,2023,44430725120.0,12266720,146180,84:01:00,low,Utilities
+PEG,Public Service Enterprise Group Inc.,Ralph LaRossa,2023,40458223616.0,11778863,143410,82:01:00,low,Utilities
+ETR,Entergy Corp.,Andrew Marsh,2023,37579358208.0,10373208,135842,76:01:00,low,Utilities
+WEC,"Wec Energy Group, Inc.",Scott Lauber,2023,33900961792.0,9552179,131029,73:01:00,low,Utilities
+AEE,Ameren Corp.,Martin Lyons,2023,27411650560.0,9009431,133250,68:01:00,low,Utilities
+AWK,"American Water Works Company, Inc.",Susan Hardwick,2023,26506944512.0,7720825,96531,80:01:00,low,Utilities
+ATO,Atmos Energy Corp.,Kevin Akers,2023,24147292160.0,8104362,91592,88:01:00,low,Utilities
+NI,Nisource Inc.,Lloyd Yates,2023,19178252288.0,9216680,174408,53:01:00,low,Utilities
+EVRG,"Evergy, Inc.",David Campbell,2023,15849920512.0,7138724,105724,53:01:00,low,Utilities
+PNW,Pinnacle West Capital Corp.,Jeffrey Guldner,2023,11021421568.0,9322192,153935,61:01:00,low,Utilities
